@@ -2,18 +2,17 @@
 Resources for a fully-asynchronous elementary-level Japanese class (ELJ101) at LaGuardia Community College
 
 ## Background
-In Spring 2025, the Japan Studies Program at LaGuardia Community College has decided to try offering a fully-asynchronous elementary-level Japaense (ELJ101). The course will be fully-asynchronous, including assessment, and will follow the same curriculum as that of the in-person Elementary Japaense 1, which is the first five lessons of the "Genki 1" textbook.
+In Spring 2025, the Japan Studies Program at LaGuardia Community College has decided to offer a fully asynchronous elementary-level Japanese 101 (ELJ101 Async). The course will be fully asynchronous, including both instruction and assessment. the ELJ101 Async will cover the same curriculum as that of the in-person Elementary Japanese 1, which is the first five lessons of the "Genki 1" textbook.  
 
-After a series of meetings, we have decided to use the following structure for this asynchronous Japanese class. Some elements in the module structure are developed and shared by all Japaense language instructors (in the blue background in the figure)
- while others are developed by individual instructors (green in the figure).
+After a series of meetings, we have decided to use the following structure for this asynchronous Japanese class. Some elements in the module structure are developed and shared by all Japanese language instructors (shown in blue in the figure), while others are developed by individual instructors (shown in green in the figure).  
 
 ![Module Structure](https://t-nagano.com/mycourses/ELJ101Asynch/images/AsynchronousELJ101ModuleOverviewRev100_resized.jpg)
 
-- **Lecture videos (Instructor)**: A series of lecture videos. Suggested lengths of each video is 5-10 min.
-- **Lab Discussion (Standardized)**: A 20-30 min recorded meeting of multiple instructors and tutors discussing the module topic together. The focus should be extralinguistic topics such as culture, customs, history, and social expectations and norms. The discussion will be conducted in Japanese and will be delivered with a translated subtitle.
-- **Formative assessment (Standardized/Instructor)**: Right after the lectures, students will submit their language production through oral/video recordings, writing responses, or multiple-choice questions. This is formative assessment and students will not be penalized for their mistakes (they will receive full credit for submission). Instructors are expected to provide detailed feedback to students’ submission.
-- **Practice (Standardized)**: Asynchronous ungraded practices will be available for students. The asynchronous practices should be self-graded such as multiple-choice questions and tasks with preconfigured feedback. Students are encouraged to do as much practice as needed. 
-- **Summative assessment (Instructor)**: The module will conclude with summative assessment, which will contribute to students’ final grades. The summative assessment may take in the format of open-book multiple-choice questions, video-/audio-recorded presentations, or a mini-projet.
+- **Lecture videos (Instructor)**: A series of lecture videos. The suggested length of each video is 5-10 minutes.  
+- **Lab Discussion (Standardized)**: A 20-30 minute recorded meeting of multiple instructors and tutors discussing the module topic together. The focus should be on extralinguistic topics such as culture, customs, history, and social expectations and norms. The discussion will be conducted in Japanese and will be delivered with translated subtitles.  
+- **Formative assessment (Standardized/Instructor)**: Right after the lectures, students will submit their language production through oral/video recordings, writing responses, or multiple-choice questions. This is formative assessment, and students will not be penalized for their mistakes (they will receive full credit for submission). Instructors are expected to provide detailed feedback on students’ submissions.  
+- **Practice (Standardized)**: Asynchronous ungraded practices will be available for students. The asynchronous practices should be self-graded, such as multiple-choice questions and tasks with preconfigured feedback. Students are encouraged to do as much practice as needed.  
+- **Summative assessment (Instructor)**: The module will conclude with a summative assessment, which will contribute to students’ final grades. The summative assessment may take the form of open-book multiple-choice questions, video/audio recorded presentations, or a mini project.  
 
 All modules in the asynchronous class will follow the same structure. As of April 2025, we are planning to create the following 19 modules.
 
@@ -32,10 +31,10 @@ All modules in the asynchronous class will follow the same structure. As of Apri
 - Module 12: Past tense (verbs) (Genki L4)
 - Module 13: Particles も and と (Genki L4)
 - Module 14: x時間 (duration) and adverbs (たくさん) (Genki L4)
-- Module 15: Adjectives
-- Module 16: 好きな/きらいな
-- Module 17: ましょう/ましょうか
-- Module 18: Counters
+- Module 15: Adjectives (Genki L5)
+- Module 16: 好きな/きらいな (Genki L5)
+- Module 17: ましょう/ましょうか (Genki L5)
+- Module 18: Counters (Genki L5)
 
 
 ## License
