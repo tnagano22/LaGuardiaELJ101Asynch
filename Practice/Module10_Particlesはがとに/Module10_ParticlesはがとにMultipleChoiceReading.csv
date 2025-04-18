@@ -1,0 +1,26 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M10MCR1,What particle fills the blank (1)?,は,が,と,に,の,1
+2,M10MCR1,What particle fills the blank (2)?,は,に,が,と,で,2
+3,M10MCR1,What particle fills the blank (3)?,と,に,は,が,で,1
+4,M10MCR1,What particle fills the blank (4)?,に,で,は,が,と,1
+5,M10MCR1,What particle fills the blank (5)?,に,で,は,と,が,1
+6,M10MCR2,What particle fills the blank (1)?,は,が,と,に,を,1
+7,M10MCR2,What particle fills the blank (2)?,は,が,と,に,を,4
+8,M10MCR2,What particle fills the blank (3)?,は,が,と,に,を,4
+9,M10MCR2,What particle fills the blank (4)?,は,が,と,に,で,5
+10,M10MCR2,What particle fills the blank (5)?,は,が,と,に,を,2
+11,M10MCR3,What particle fills the blank (1)?,は,が,と,に,の,1
+12,M10MCR3,What particle fills the blank (2)?,は,が,と,に,も,2
+13,M10MCR3,What particle fills the blank (3)?,は,が,と,に,で,1
+14,M10MCR3,What particle fills the blank (4)?,は,が,と,に,ね,1
+15,M10MCR3,What particle fills the blank (5)?,は,が,と,に,へ,4
+16,M10MCR4,What particle fills the blank (1)?,は,が,と,に,で,3
+17,M10MCR4,What particle fills the blank (2)?,は,が,に,で,を,2
+18,M10MCR4,What particle fills the blank (3)?,で,に,は,が,と,2
+19,M10MCR4,What particle fills the blank (4)?,と,に,が,は,で,4
+20,M10MCR4,What particle fills the blank (5)?,が,に,は,で,と,5
+21,M10MCR5,What particle fills the blank (1)?,は,が,と,に,で,1
+22,M10MCR5,What particle fills the blank (2)?,は,が,と,に,で,2
+23,M10MCR5,What particle fills the blank (3)?,は,が,と,に,で,3
+24,M10MCR5,What particle fills the blank (4)?,は,が,と,に,で,4
+25,M10MCR5,What particle fills the blank (5)?,は,が,と,に,で,5

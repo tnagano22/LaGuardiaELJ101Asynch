@@ -1,0 +1,51 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M08MCR01,"What does ""あさごはんをたべます"" mean?",Eat breakfast,Eat lunch,Read books,Drink coffee,Wake up,1
+2,M08MCR01,Where does Tanaka-san study Japanese?,At the library,At the cafe,In the classroom,At home,In the park,3
+3,M08MCR01,What time does Tanaka-san wake up?,7:00 AM,6:00 AM,9:00 AM,3:00 PM,11:00 PM,2
+4,M08MCR01,What does Tanaka-san do at 3:00 PM?,Study Japanese,Take photos,Drink coffee,Watch TV,Eat dinner,3
+5,M08MCR01,"Which particle follows ""ごぜん九じ"" in the text?",で,へ,に,を,と,3
+6,M08MCR02,What time does Tanaka wake up?,6:00 AM,7:00 AM,8:00 AM,9:00 AM,10:00 AM,2
+7,M08MCR02,How does Tanaka go to university?,By car,By bus,By train,By bicycle,On foot,3
+8,M08MCR02,Where does Tanaka study at night?,At home,At the library,At a café,At a friend's house,In the park,2
+9,M08MCR02,Who does Tanaka eat dinner with?,Alone,With family,With friends,With teachers,With dogs,3
+10,M08MCR02,What is Tanaka's occupation?,Teacher,Doctor,Student,Engineer,Researcher,3
+11,M08MCR03,What time does Tanaka eat breakfast?,6:00 AM,7:00 AM,8:00 AM,9:00 AM,10:00 AM,2
+12,M08MCR03,Where does Tanaka study Japanese in the afternoon?,At home,At school,At the library,At a cafe,At a restaurant,3
+13,M08MCR03,Who does Tanaka go to school with?,Her mother,Her teacher,Her friend Sato,Her brother,Her father,3
+14,M08MCR03,What does Tanaka do at 6:00 PM?,Eat dinner,Watch TV,Study,Read a book,Sleep,2
+15,M08MCR03,How does Tanaka feel about her daily life?,Bored,Tired,Happy,Confused,Sad,3
+16,M08MCR04,What time does the Japanese class start?,8:00 AM,9:00 AM,10:00 AM,7:30 AM,11:00 AM,2
+17,M08MCR04,Where do they eat lunch?,School library,School restaurant,Park,Apartment,Cafe,2
+18,M08MCR04,What do they study in the afternoon?,At home,In the library,At the park,In the classroom,In his friend's apartment,2
+19,M08MCR04,What do they do on Saturdays?,Go to movies,Go to department store,Visit friends,Study Japanese,Sleep,2
+20,M08MCR04,What do they watch in the evening?,Korean dramas,American movies,Japanese movies,Chinese cartoons,American dramas,3
+21,M08MCR05,What time does Tanaka eat breakfast?,6:00 AM,7:00 AM,7:30 AM,8:00 AM,9:00 AM,3
+22,M08MCR05,Where does Tanaka study in the afternoon?,University,Cafeteria,Library,Home,Cafe,3
+23,M08MCR05,What does Tanaka do every night?,Study Japanese,Drink coffee,Watch TV,Go to the library,Sleep,3
+24,M08MCR05,When does Tanaka have lunch?,10:00 AM,11:30 AM,12:00 PM,12:30 PM,1:00 PM,4
+25,M08MCR05,How are Tanaka's Sundays?,Very busy,Completely free,Relaxing,Boring,Confused,1
+26,M08MCR06,Where does the speaker walk every morning?,Central Park,Empire State Building,Statue of Liberty,Grand Central Station,One World,1
+27,M08MCR06,What does the speaker often do on weekends?,Visit museums,Watch baseball,Go shopping,Study Japanese,Walk in the Central Park,1
+28,M08MCR06,What activity does the speaker do at Times Square?,See Christmas lights,Drink coffee,Watch musicals,Buy souvenirs,Sleep at a hotel,2
+29,M08MCR06,How often does the speaker eat at restaurants?,Every day,Sometimes,Only on holidays,Never,Every Sunday,2
+30,M08MCR06,How does the speaker describe New York?,Quiet and peaceful,Small but cozy,Big with beautiful lights,Cold and boring,Sad and depressing,3
+31,M08MCR07,What time does Sam walk in Central Park?,7:00 AM,8:00 AM,9:00 AM,10:00 AM,11:00 AM,2
+32,M08MCR07,Where do they go on Saturdays?,Times Square,School library,Central Park,Brooklyn Museum,Metropolican Museum,3
+33,M08MCR07,What do they see in the afternoon?,Statue of Liberty,Brooklyn Bridge,Empire State Building,Central Park Zoo,Metropolican Museum,2
+34,M08MCR07,What does Emily drink at the restaurant?,Tea,Milk,Coffee,Orange juice,Water,3
+35,M08MCR07,Where do they go at 9:00 PM?,Movie theater,School library,Convenience store,Restaurant,Cafe,2
+36,M08MCR08,Where does Mary eat lunch?,Central Park,Library,Cafe,Concert hall,Metropolican Museum,3
+37,M08MCR08,What does Mary do in the afternoon?,Go shopping,Visit library,Watch movie,Meet friends,Sleep,2
+38,M08MCR08,Who does Mary go to the concert with?,Alone,Family,Coworkers,Friend,Pet,4
+39,M08MCR08,When does Mary go to Central Park?,Evening,Afternoon,Morning,Night,Sunday,3
+40,M08MCR08,Where is the concert held?,Central Park,Empire Building,Library,Rockefeller Center,Metropolican Museum,4
+41,M08MCR09,Where does the person often study with friends?,At home,In the library,At Central Park,In a restaurant,At the movie theater,2
+42,M08MCR09,What activity does the person do on Saturdays?,Watch movies,Play soccer,Read books,Go to concerts,Visit museums,2
+43,M08MCR09,Where does the person eat lunch on Saturdays?,At university,In the park,At a restaurant,At home,In the library,3
+44,M08MCR09,What will the person do this Sunday?,Study at university,Go to a concert,Play soccer,Visit a teacher,Read books,2
+45,M08MCR09,Who does the person visit museums with sometimes?,Friends,Teacher,Family,Classmates,No one,2
+46,M08MCR10,When does Sato visit Central Park?,Saturday morning,Saturday afternoon,Sunday morning,Sunday evening,Saturday morning,1
+47,M08MCR10,Where do they eat Italian food?,At the library,At a restaurant,At the university,At the station,At a restaurant,2
+48,M08MCR10,How do they go to the museum?,By train,By taxi,By bus,On foot,By bus,3
+49,M08MCR10,What do they photograph at night?,Times Square,Statue of Liberty,Central Park,Brooklyn Bridge,Brooklyn Bridge,4
+50,M08MCR10,Where is Sato on Sunday morning?,At the park,At the museum,At home,At the bridge,At the library,3
