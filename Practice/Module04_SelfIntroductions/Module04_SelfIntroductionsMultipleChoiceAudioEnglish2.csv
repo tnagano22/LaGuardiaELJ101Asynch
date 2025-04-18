@@ -1,0 +1,26 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M04MCAE06,What is Hanako's nationality?,Chinese,Korean,Japanese,American,Mexican,3
+2,M04MCAE06,How old is Hanako?,18 years old,19 years old,20 years old,21 years old,25 years old,3
+3,M04MCAE06,What is Hanako's major?,Chemistry,Literature,Biology,Economics,Japanese,3
+4,M04MCAE06,Which university does Hanako attend?,Columbia University,New York University,LaGuardia Community College,Harvard University,Hunter College,3
+5,M04MCAE06,What does Hanako like?,Cats and movies,Dogs and music,Books and coffee,Tea and basketball,Cats and music,2
+6,M04MCAE07,What is Anna's nationality?,Mexican,American,Chinese,Brazilian,Japanese,1
+7,M04MCAE07,How old is Anna?,23,24,25,26,27,3
+8,M04MCAE07,Where does Anna study?,New York University,LaGuardia Community College,Harvard University,Tokyo University,Kyoto University,2
+9,M04MCAE07,What is Anna's major?,Computer Science,History,Business,Art,Japanese,2
+10,M04MCAE07,What does Anna like?,Tea and movies,Books and coffee,Sports and music,Travel and pizza,Cooking and sleeping,2
+11,M04MCAE08,What is Hanako Yamada's nationality?,Chinese,Brazilian,American,Japanese,Korean,3
+12,M04MCAE08,How old is Hanako Yamada?,18 years old,19 years old,20 years old,21 years old,22 years old,3
+13,M04MCAE08,What is Hanako Yamada's major?,Computer Science,Economics,Psychology,History,Education,2
+14,M04MCAE08,Which year is Hanako Yamada in college?,First year,Second year,Third year,Fourth year,Graduate student,2
+15,M04MCAE08,What does Hanako Yamada like besides music?,Tea,Coffee,Juice,Milk,Water,2
+16,M04MCAE09,What is Hanako Yamada's nationality?,Japanese,American,Chinese,Korean,American,1
+17,M04MCAE09,How old is Hanako Yamada?,18 years old,20 years old,22 years old,25 years old,27 years old,2
+18,M04MCAE09,What year is she in at college?,First year,Second year,Third year,Fourth year,Fifth year,2
+19,M04MCAE09,What is Hanako's major?,Economics,Literature,Physics,History,Japanese,1
+20,M04MCAE09,What does Hanako like?,Music and coffee,Sports and tea,Art and milk,Books and juice,Cooking and sleeping,1
+21,M04MCAE10,What is the person's name?,Maria,Mary,Mei,Mariko,Marie,2
+22,M04MCAE10,How old is she?,20,22,25,27,30,3
+23,M04MCAE10,Where is she from?,Brazil,Mexico,Japan,Canada,USA,2
+24,M04MCAE10,What is her major?,Biology,Computer Science,History,Literature,Economics,2
+25,M04MCAE10,What does she like?,Sports and movies,Cooking and music,Reading and art,Traveling and photography,Dancing and singing,2
