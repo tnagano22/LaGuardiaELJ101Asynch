@@ -1,0 +1,49 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M01MCER,おはよう.mp3,Good morning,Good afternoon,Good evening,Hello,Thank you,1
+2,M01MCER,こんにちは.mp3,Good morning,Hello,Good evening,Goodbye,Excuse me,2
+3,M01MCER,こんばんは.mp3,Good evening,Good night,Hello,How are you?,I'm sorry,1
+4,M01MCER,おやすみ.mp3,Good night,Good morning,Thank you,Please,Welcome,1
+5,M01MCER,はじめまして.mp3,Nice to meet you,Thank you,Excuse me,How are you?,Goodbye,1
+6,M01MCER,どうぞよろしく.mp3,Please to meet you,Nice to meet you,Thank you,Excuse me,You're welcome,1
+7,M01MCER,ありがとう.mp3,Thank you,You're welcome,Excuse me,I'm sorry,Hello,1
+8,M01MCER,すみません.mp3,Excuse me,I'm sorry,Thank you,Goodbye,See you,1
+9,M01MCER,ごめんなさい.mp3,I'm sorry,Excuse me,Thank you,Good night,Please,1
+10,M01MCER,さようなら.mp3,Goodbye,See you,Hello,Good evening,Nice to meet you,1
+11,M01MCER,じゃあね.mp3,See you,Goodbye,Hello,Thank you,Excuse me,1
+12,M01MCER,おげんきですか？.mp3,How are you?,I'm fine,Thank you,Nice to meet you,Please,1
+13,M01MCER,げんきです.mp3,I'm fine,How are you?,Thank you,Good night,Excuse me,1
+14,M01MCER,いってきます.mp3,I'm leaving,See you later,Welcome back,I'm home,Let's eat,1
+15,M01MCER,いってらっしゃい.mp3,See you later,I'm leaving,Welcome back,Let's eat,Thank you,1
+16,M01MCER,ただいま.mp3,I'm home,Welcome back,Let's eat,Thank you,Goodbye,1
+17,M01MCER,おかえりなさい.mp3,Welcome back,I'm home,Let's eat,Thank you,Good night,1
+18,M01MCER,いただきます.mp3,Let's eat,Thank you for the meal,Please,Excuse me,How are you,1
+19,M01MCER,ごちそうさまでした.mp3,Thank you for the meal,Let's eat,You're welcome,Please,Goodbye,1
+20,M01MCER,おねがいします.mp3,Please,Thank you,Excuse me,You're welcome,Nice to meet you,1
+21,M01MCER,どういたしまして.mp3,You're welcome,Thank you,Excuse me,I'm sorry,Goodbye,1
+22,M01MCER,はい.mp3,Yes,No,Thank you,Excuse me,Hello,1
+23,M01MCER,いいえ.mp3,No,Yes,Thank you,Please,Goodbye,1
+24,M01MCER,もしもし.mp3,Hello (on the phone),Hello,Goodbye,Thank you,Excuse me,1
+25,M01MCER,おだいじに.mp3,Take care,How are you?,I'm fine,Goodbye,Thank you,1
+26,M01MCER,またあした.mp3,See you tomorrow,See you later,Goodbye,Hello,Thank you,1
+27,M01MCER,おめでとうございます.mp3,Congratulations,Thank you,Excuse me,Goodbye,Please,1
+28,M01MCER,しつれいします.mp3,Excuse me (when leaving),I'm sorry,Thank you,Good night,Please,1
+29,M01MCER,しつれいしました.mp3,I have to leave now,Excuse me,Thank you,Goodbye,You're welcome,1
+30,M01MCER,おはようございます.mp3,Good morning (polite),Good morning,Hello,Good evening,Thank you,1
+31,M01MCER,こちらこそ.mp3,Likewise,Please to meet you,Thank you,Excuse me,Goodbye,1
+32,M01MCER,ありがとうございます.mp3,Thank you very much,Thank you,You're welcome,Excuse me,Hello,1
+33,M01MCER,おやすみなさい.mp3,Good night (polite),Good night,Good morning,Hello,Thank you,1
+34,M01MCER,こちらこそどうぞよろしく.mp3,Nice to meet you too,Please to meet you,Thank you,Excuse me,Goodbye,1
+35,M01MCER,どうぞよろしくおねがいします.mp3,Please to meet you,Nice to meet you,Thank you,Excuse me,Goodbye,1
+36,M01MCER,おかえり.mp3,Welcome back,I'm home,Let's eat,Thank you,Good night,1
+37,M01MCER,ごちそうさま.mp3,Thank you for the meal,Let's eat,You're welcome,Please,Goodbye,1
+38,M01MCER,おめでとう.mp3,Congratulations,Thank you,Hello,Goodbye,Please,1
+39,M01MCER,しつれい.mp3,Excuse me,I'm sorry,Thank you,Good night,Please,1
+40,M01MCER,また.mp3,See you,Goodbye,Hello,Thank you,Excuse me,1
+41,M01MCER,いってらっしゃい.mp3,See you later,I'm leaving,Welcome back,Let's eat,Thank you,1
+42,M01MCER,おかえりなさい.mp3,Welcome back,I'm home,Let's eat,Thank you,Good night,1
+43,M01MCER,いただきます.mp3,Let's eat,Thank you for the meal,Please,Excuse me,How are you,1
+44,M01MCER,ごちそうさまでした.mp3,Thank you for the meal,Let's eat,You're welcome,Please,Goodbye,1
+45,M01MCER,おねがいします.mp3,Please,Thank you,Excuse me,You're welcome,Nice to meet you,1
+46,M01MCER,どういたしまして.mp3,You're welcome,Thank you,Excuse me,I'm sorry,Goodbye,1
+47,M01MCER,はい.mp3,Yes,No,Thank you,Excuse me,Hello,1
+48,M01MCER,いいえ.mp3,No,Yes,Thank you,Please,Goodbye,1

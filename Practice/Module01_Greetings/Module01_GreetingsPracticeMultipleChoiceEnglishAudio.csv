@@ -1,0 +1,51 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M01MCEA,What is the morning greeting?  ,おはようございます.mp3,こんにちは.mp3,こんばんは.mp3,おやすみなさい.mp3,さようなら.mp3,1  
+2,M01MCEA,What is the midday greeting?  ,おはよう.mp3,こんにちは.mp3,こんばんは.mp3,ありがとう.mp3,さようなら.mp3,2  
+3,M01MCEA,What is the evening greeting?  ,おはよう.mp3,こんにちは.mp3,こんばんは.mp3,おやすみ.mp3,ありがとう.mp3,3  
+4,M01MCEA,What is the greeting before going to bed?  ,おはよう.mp3,こんばんは.mp3,おやすみなさい.mp3,さようなら.mp3,ありがとう.mp3,3  
+5,M01MCEA,What is the farewell greeting?  ,こんにちは.mp3,さようなら.mp3,おはよう.mp3,こんばんは.mp3,おやすみ.mp3,2  
+6,M01MCEA,What is the expression used to show gratitude?  ,すみません.mp3,ありがとう.mp3,ごめんなさい.mp3,おめでとう.mp3,いってきます.mp3,2  
+7,M01MCEA,What is the expression used when you have been impolite?  ,ありがとう.mp3,すみません.mp3,おはよう.mp3,こんにちは.mp3,おかえり.mp3,2  
+8,M01MCEA,What is the greeting when you meet someone for the first time?  ,はじめまして.mp3,おはよう.mp3,こんばんは.mp3,おやすみ.mp3,さようなら.mp3,1  
+9,M01MCEA,What is the expression after stating your name?  ,おねがいします.mp3,どうぞよろしく.mp3,ありがとう.mp3,ごちそうさま.mp3,いってらっしゃい.mp3,2  
+10,M01MCEA,What is the greeting when going to school?  ,いってきます.mp3,おかえり.mp3,ただいま.mp3,いただきます.mp3,ごちそうさま.mp3,1  
+11,M01MCEA,What is the greeting when you return home?  ,いってらっしゃい.mp3,おかえりなさい.mp3,おはよう.mp3,こんにちは.mp3,おやすみ.mp3,2  
+12,M01MCEA,What is the expression before eating?  ,ごちそうさま.mp3,いただきます.mp3,おめでとう.mp3,がんばって.mp3,きをつけて.mp3,2  
+13,M01MCEA,What is the expression after eating?  ,いただきます.mp3,ごちそうさま.mp3,おはよう.mp3,こんばんは.mp3,おやすみ.mp3,2  
+14,M01MCEA,What is the expression used when apologizing?  ,ありがとう.mp3,すみません.mp3,おめでとう.mp3,どういたしまして.mp3,いってらっしゃい.mp3,2  
+15,M01MCEA,What is the expression used when congratulating someone?  ,ごめんなさい.mp3,おめでとう.mp3,ありがとう.mp3,どうぞ.mp3,すみません.mp3,2  
+16,M01MCEA,What is the expression used when asking for help?  ,おねがいします.mp3,どういたしまして.mp3,ごちそうさま.mp3,いってきます.mp3,おかえり.mp3,1  
+17,M01MCEA,What is the expression used for replying?  ,どうぞ.mp3,どういたしまして.mp3,おはよう.mp3,こんにちは.mp3,おやすみ.mp3,2  
+18,M01MCEA,What is the expression used when handing something over?  ,どういたしまして.mp3,どうぞ.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,2  
+19,M01MCEA,What is the greeting for someone who is heading out?  ,いってらっしゃい.mp3,いってきます.mp3,おかえり.mp3,ただいま.mp3,ごちそうさま.mp3,1  
+20,M01MCEA,What is the expression used when starting work?  ,がんばって.mp3,おめでとう.mp3,ごちそうさま.mp3,おはよう.mp3,こんにちは.mp3,1  
+21,M01MCEA,What is the expression used when something is dangerous?  ,きをつけて.mp3,おめでとう.mp3,どうぞ.mp3,どういたしまして.mp3,おはよう.mp3,1  
+22,M01MCEA,What is the expression used when apologizing?  ,ごめんなさい.mp3,ありがとう.mp3,すみません.mp3,おめでとう.mp3,どうぞ.mp3,1  
+23,M01MCEA,What is the expression for saying “no”?  ,はい.mp3,いいえ.mp3,どうぞ.mp3,どういたしまして.mp3,おねがいします.mp3,2  
+24,M01MCEA,What is the expression for saying “yes”?  ,はい.mp3,いいえ.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+25,M01MCEA,What is the expression used by students?  ,せんせい.mp3,がくせい.mp3,いしゃ.mp3,かいしゃいん.mp3,エンジニア.mp3,2  
+26,M01MCEA,What is the expression used by teachers?  ,がくせい.mp3,せんせい.mp3,いしゃ.mp3,かいしゃいん.mp3,エンジニア.mp3,2  
+27,M01MCEA,What is the expression used when asking a question?  ,おげんきですか.mp3,どういたしまして.mp3,おはよう.mp3,こんばんは.mp3,おやすみ.mp3,1  
+28,M01MCEA,What is the expression for replying “I’m fine”?  ,はい、げんきです.mp3,いいえ、げんきです.mp3,どういたしまして.mp3,おねがいします.mp3,ごちそうさま.mp3,1  
+29,M01MCEA,What is the expression for asking someone’s name?  ,おなまえは？.mp3,おげんきですか.mp3,どうぞよろしく.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+30,M01MCEA,What is the expression for a new friend?  ,はじめまして.mp3,おはよう.mp3,さようなら.mp3,おやすみ.mp3,ごちそうさま.mp3,1  
+31,M01MCEA,What is the expression after a self-introduction?  ,どうぞよろしく.mp3,ありがとう.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+32,M01MCEA,What is the expression used when raising your hand?  ,しつれいします.mp3,おねがいします.mp3,どういたしまして.mp3,ごちそうさま.mp3,おめでとう.mp3,1  
+33,M01MCEA,What is the expression used when leaving the classroom?  ,しつれいします.mp3,おはよう.mp3,こんにちは.mp3,おやすみ.mp3,さようなら.mp3,1  
+34,M01MCEA,What is the expression used when helping someone carry luggage?  ,おねがいします.mp3,どういたしまして.mp3,ごちそうさま.mp3,いってきます.mp3,おかえり.mp3,1  
+35,M01MCEA,What is the expression related to travel?  ,いってらっしゃい.mp3,いってきます.mp3,おかえり.mp3,ただいま.mp3,ごちそうさま.mp3,1  
+36,M01MCEA,What is the expression for someone who is ill?  ,おだいじに.mp3,おめでとう.mp3,がんばって.mp3,きをつけて.mp3,どういたしまして.mp3,1  
+37,M01MCEA,What is the expression used when you are late for a meeting?  ,すみません.mp3,ありがとう.mp3,ごめんなさい.mp3,おめでとう.mp3,どうぞ.mp3,1  
+38,M01MCEA,What is the expression used for someone who helped you?  ,どういたしまして.mp3,ありがとう.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+39,M01MCEA,"What is the expression used to offer well wishes (e.g., get-well-soon)?  ",おだいじに.mp3,おめでとう.mp3,がんばって.mp3,きをつけて.mp3,どうぞ.mp3,1  
+40,M01MCEA,What is the expression for the end of the workday?  ,おつかれさまでした.mp3,おはよう.mp3,こんにちは.mp3,おやすみ.mp3,さようなら.mp3,1  
+41,M01MCEA,What is the expression used at a party?  ,おめでとう.mp3,ごちそうさま.mp3,いただきます.mp3,おはよう.mp3,こんばんは.mp3,1  
+42,M01MCEA,What is the telephone greeting?  ,もしもし.mp3,おはよう.mp3,こんにちは.mp3,おやすみ.mp3,さようなら.mp3,1  
+43,M01MCEA,What is the expression used when starting to study?  ,がんばります.mp3,おめでとう.mp3,ごちそうさま.mp3,おはよう.mp3,こんにちは.mp3,1  
+44,M01MCEA,What is the expression used when handing over money?  ,どうぞ.mp3,どういたしまして.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+45,M01MCEA,What is the expression used to explain why you are late?  ,すみません、おくれました.mp3,ありがとう.mp3,ごめんなさい.mp3,おめでとう.mp3,どういたしまして.mp3,1  
+46,M01MCEA,What is the expression used when borrowing a notebook?  ,かしてください.mp3,どういたしまして.mp3,ごちそうさま.mp3,いってきます.mp3,おかえり.mp3,1  
+47,M01MCEA,What is the expression used when returning a notebook?  ,どうぞ.mp3,ありがとう.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+48,M01MCEA,What is the expression used after finishing homework?  ,おわりました.mp3,はじめまして.mp3,どうぞよろしく.mp3,ごめんなさい.mp3,おめでとう.mp3,1  
+49,M01MCEA,What is the expression used when answering a question?  ,はい、そうです.mp3,いいえ、そうです.mp3,どういたしまして.mp3,ごちそうさま.mp3,おめでとう.mp3,1  
+50,M01MCEA,What is the expression used when being praised for test results?,ありがとうございます.mp3,すみません.mp3,ごめんなさい.mp3,おめでとう.mp3,どういたしまして.mp3,1
