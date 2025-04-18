@@ -1,0 +1,53 @@
+ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
+1,M03MCJA2,あさ (morning),あさ.mp3,あし.mp3,いす.mp3,あき.mp3,はな.mp3,1
+2,M03MCJA2,いす (chair),いす.mp3,いし.mp3,うえ.mp3,いぬ.mp3,かさ.mp3,1
+3,M03MCJA2,うえ (above),うえ.mp3,うた.mp3,えき.mp3,おと.mp3,かお.mp3,1
+4,M03MCJA2,えき (station),えき.mp3,えい.mp3,かお.mp3,きく.mp3,けし.mp3,1
+5,M03MCJA2,おと (sound),おと.mp3,おに.mp3,かみ.mp3,きる.mp3,さく.mp3,1
+6,M03MCJA2,かお (face),かお.mp3,かき.mp3,きく.mp3,けす.mp3,こえ.mp3,1
+7,M03MCJA2,きく (to hear),きく.mp3,きし.mp3,くに.mp3,けす.mp3,こた.mp3,1
+8,M03MCJA2,くに (country),くに.mp3,くさ.mp3,けい.mp3,こい.mp3,さけ.mp3,1
+9,M03MCJA2,けす (to erase),けす.mp3,けい.mp3,こた.mp3,さき.mp3,しろ.mp3,1
+10,M03MCJA2,こたえ (answer),こたえ.mp3,こい.mp3,さけ.mp3,しる.mp3,せん.mp3,1
+11,M03MCJA2,さけ (alcohol),さけ.mp3,さき.mp3,しろ.mp3,せん.mp3,たけ.mp3,1
+12,M03MCJA2,しろ (white),しろ.mp3,しる.mp3,せん.mp3,たに.mp3,つき.mp3,1
+13,M03MCJA2,せん (line),せん.mp3,せい.mp3,たに.mp3,つく.mp3,てる.mp3,1
+14,M03MCJA2,たに (valley),たに.mp3,たけ.mp3,つき.mp3,てら.mp3,とし.mp3,1
+15,M03MCJA2,つき (moon),つき.mp3,つく.mp3,てる.mp3,とけ.mp3,なに.mp3,1
+16,M03MCJA2,てら (temple),てら.mp3,てる.mp3,とし.mp3,なか.mp3,にし.mp3,1
+17,M03MCJA2,とし (city),とし.mp3,とけ.mp3,なに.mp3,にわ.mp3,ぬの.mp3,1
+18,M03MCJA2,なに (what),なに.mp3,なか.mp3,にし.mp3,ぬの.mp3,ねこ.mp3,1
+19,M03MCJA2,にわ (garden),にわ.mp3,にし.mp3,ぬの.mp3,ねる.mp3,のこ.mp3,1
+20,M03MCJA2,ぬの (cloth),ぬの.mp3,ぬる.mp3,ねこ.mp3,のこ.mp3,はこ.mp3,1
+21,M03MCJA2,ねこ (cat),ねこ.mp3,ねる.mp3,のこ.mp3,はし.mp3,ひく.mp3,1
+22,M03MCJA2,のこす (to leave),のこす.mp3,のむ.mp3,はこ.mp3,ひる.mp3,ふく.mp3,1
+23,M03MCJA2,はこ (box),はこ.mp3,はし.mp3,ひく.mp3,ふね.mp3,へや.mp3,1
+24,M03MCJA2,ひく (to pull),ひく.mp3,ひる.mp3,ふく.mp3,へる.mp3,ほし.mp3,1
+25,M03MCJA2,ふね (ship),ふね.mp3,ふく.mp3,へや.mp3,ほす.mp3,まく.mp3,1
+26,M03MCJA2,へや (room),へや.mp3,へる.mp3,ほし.mp3,まね.mp3,みみ.mp3,1
+27,M03MCJA2,ほし (star),ほし.mp3,ほす.mp3,まく.mp3,みせ.mp3,むし.mp3,1
+28,M03MCJA2,まく (to sow),まく.mp3,まね.mp3,みみ.mp3,むす.mp3,めん.mp3,1
+29,M03MCJA2,みみ (ear),みみ.mp3,みせ.mp3,むし.mp3,めい.mp3,もく.mp3,1
+30,M03MCJA2,むし (insect),むし.mp3,むす.mp3,めん.mp3,もと.mp3,やく.mp3,1
+31,M03MCJA2,めい (niece),めい.mp3,めん.mp3,もく.mp3,やま.mp3,ゆめ.mp3,1
+32,M03MCJA2,もく (wood),もく.mp3,もと.mp3,やく.mp3,ゆき.mp3,よる.mp3,1
+33,M03MCJA2,やま (mountain),やま.mp3,やく.mp3,ゆめ.mp3,よこ.mp3,らん.mp3,1
+34,M03MCJA2,ゆめ (dream),ゆめ.mp3,ゆき.mp3,よる.mp3,らく.mp3,りん.mp3,1
+35,M03MCJA2,よこ (side),よこ.mp3,よる.mp3,らん.mp3,りす.mp3,るい.mp3,1
+36,M03MCJA2,らん (column),らん.mp3,らく.mp3,りん.mp3,るす.mp3,れい.mp3,1
+37,M03MCJA2,りん (ring),りん.mp3,りす.mp3,るい.mp3,れつ.mp3,ろう.mp3,1
+38,M03MCJA2,るす (absence),るす.mp3,るい.mp3,れい.mp3,ろく.mp3,わに.mp3,1
+39,M03MCJA2,れい (example),れい.mp3,れつ.mp3,ろう.mp3,わか.mp3,をん.mp3,1
+40,M03MCJA2,ろく (six),ろく.mp3,ろう.mp3,わに.mp3,をす.mp3,あき.mp3,1
+41,M03MCJA2,わに (alligator),わに.mp3,わか.mp3,をん.mp3,あさ.mp3,いす.mp3,1
+42,M03MCJA2,をん (grunt),をん.mp3,あき.mp3,いし.mp3,うえ.mp3,えき.mp3,1
+43,M03MCJA2,あき (autumn),あき.mp3,あさ.mp3,いす.mp3,うた.mp3,えい.mp3,1
+44,M03MCJA2,いし (stone),いし.mp3,いす.mp3,うえ.mp3,おに.mp3,かき.mp3,1
+45,M03MCJA2,うた (song),うた.mp3,うえ.mp3,えき.mp3,おと.mp3,かお.mp3,1
+46,M03MCJA2,えい (ray),えい.mp3,えき.mp3,おと.mp3,かき.mp3,きく.mp3,1
+47,M03MCJA2,おに (demon),おに.mp3,おと.mp3,かお.mp3,きし.mp3,くに.mp3,1
+48,M03MCJA2,かき (oyster),かき.mp3,かお.mp3,きく.mp3,くさ.mp3,けす.mp3,1
+49,M03MCJA2,きし (shore),きし.mp3,きく.mp3,くに.mp3,けい.mp3,こた.mp3,1
+50,M03MCJA2,くさ (grass),くさ.mp3,くに.mp3,けす.mp3,こい.mp3,さけ.mp3,1
+51,M03MCJA2,けい (form),けい.mp3,けす.mp3,こた.mp3,さき.mp3,しろ.mp3,1
+52,M03MCJA2,こい (carp),こい.mp3,こた.mp3,さけ.mp3,しる.mp3,せん.mp3,1
