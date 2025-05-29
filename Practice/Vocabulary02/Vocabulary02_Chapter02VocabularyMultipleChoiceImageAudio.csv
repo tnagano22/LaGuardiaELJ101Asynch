@@ -1,8 +1,8 @@
 ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
-1,V02MCIJ,おいしい_resized.jpg,おいしい.mp3,とんかつ.mp3,ノート.mp3,あそこ.mp3,えいご.mp3,1  
+1,V02MCIJ,おいしい_resized.jpg,おいしい.mp3,おかあさん.mp3,ノート.mp3,あそこ.mp3,えいご.mp3,1  
 2,V02MCIJ,たかい_resized.jpg,たかい.mp3,やさい.mp3,メニュー.mp3,れきし.mp3,としょかん.mp3,1  
 3,V02MCIJ,いらっしゃいませ_resized.jpg,いらっしゃいませ.mp3,おかあさん.mp3,けんきゅう.mp3,くつ.mp3,じんじゃ.mp3,1  
-4,V02MCIJ,ください_resized.jpg,ください.mp3,きもの.mp3,しんぶん.mp3,とけい.mp3,ほん.mp3,1  
+4,V02MCIJ,ください_resized.jpg,ください.mp3,きもの.mp3,しんぶん.mp3,とけい.mp3,にく.mp3,1  
 5,V02MCIJ,じゃあ_resized.jpg,じゃあ.mp3,びじゅつかん.mp3,かさ.mp3,ぎんこう.mp3,にく.mp3,1  
 6,V02MCIJ,どうぞ_resized.jpg,どうぞ.mp3,ちゅうごく.mp3,とんかつ.mp3,せんせい.mp3,でんしゃ.mp3,1  
 7,V02MCIJ,どうも_resized.jpg,どうも.mp3,えいが.mp3,がくせい.mp3,じてんしゃ.mp3,はは.mp3,1  
@@ -19,7 +19,7 @@ ID,Unit,Question,Choice1,Choice2,Choice3,Choice4,Choice5,Answer
 18,V02MCIJ,ぎんこう_resized.jpg,ぎんこう.mp3,えいが.mp3,がくせい.mp3,ほんだな.mp3,かみ.mp3,1  
 19,V02MCIJ,くつ_resized.jpg,くつ.mp3,ぺん.mp3,ざせき.mp3,しゃしん.mp3,ふく.mp3,1  
 20,V02MCIJ,けいざい_resized.jpg,けいざい.mp3,やきゅう.mp3,まんが.mp3,りょうり.mp3,えいが.mp3,1  
-21,V02MCIJ,けしゴム_resized.jpg,けしゴム.mp3,つくえ.mp3,えんぴつ.mp3,ほんだな.mp3,しんかんせん.mp3,1  
+21,V02MCIJ,けしゴム_resized.jpg,けしゴム.mp3,つくえ.mp3,じてんしゃ.mp3,ほんだな.mp3,しんかんせん.mp3,1  
 22,V02MCIJ,こくばん_resized.jpg,こくばん.mp3,まど.mp3,じてんしゃ.mp3,とけい.mp3,でんわ.mp3,1  
 23,V02MCIJ,ここ_resized.jpg,ここ.mp3,ちず.mp3,ざっし.mp3,ふでばこ.mp3,きもの.mp3,1  
 24,V02MCIJ,これ_resized.jpg,これ.mp3,えいが.mp3,がくせい.mp3,ほんだな.mp3,かみ.mp3,1  
