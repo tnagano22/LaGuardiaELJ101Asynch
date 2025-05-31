@@ -15,6 +15,9 @@
 ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-5.jpg)
 ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-6.jpg)
 ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-7.jpg)
+![](Genki3rdEdImageChatGPTCh01_XはYです/L01_XはYです_collage-0.jpg)
+![](Genki3rdEdImageChatGPTCh01_XはYです/L01_XはYです_collage-1.jpg)
+
 
 ## License
 - This work is licensed under a CC BY-NC-SA 4.0 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
