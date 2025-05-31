@@ -7,8 +7,8 @@
 	- OpenAI Dall-e (https://openai.com/index/dall-e-3/)
 
 ## Thumbnails
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-0.jpg)
-![](Genki3rdEdImageChatGPTCh01XはYです/L01_XはYです_collage-0.jpg)
+- ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-0.jpg)
+- ![](Genki3rdEdImageChatGPTCh01XはYです/L01_XはYです_collage-0.jpg)
 
 
 ## License
