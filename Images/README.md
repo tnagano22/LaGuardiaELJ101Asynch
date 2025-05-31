@@ -12,7 +12,7 @@
 - XはYです
 ![](Genki3rdEdImageChatGPTCh01XはYです/L01_XはYです_collage-0.jpg)
 - こそあど
-![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0.jpg)
+![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0.jpg)
 
 
 ## License
