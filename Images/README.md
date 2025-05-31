@@ -8,15 +8,7 @@
 
 ## Thumbnails
 ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-0.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-1.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-2.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-3.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-4.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-5.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-6.jpg)
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-7.jpg)
 ![](Genki3rdEdImageChatGPTCh01_XはYです/L01_XはYです_collage-0.jpg)
-![](Genki3rdEdImageChatGPTCh01_XはYです/L01_XはYです_collage-1.jpg)
 
 
 ## License
