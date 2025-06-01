@@ -11,6 +11,8 @@
 ![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-0.jpg)
 - XはYです
 ![](Genki3rdEdImageChatGPTCh01XはYです/L01_XはYです_collage-0.jpg)
+- か
+![](Genki3rdEdImageChatGPTCh01か/collage-0.jpg)
 - こそあど
 ![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0.jpg)
 
