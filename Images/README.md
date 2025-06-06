@@ -37,6 +37,10 @@
 ![](ImagesModule11ありますいます/L04_Verb_collage-1_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-2_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-3_resized.jpg)
+- Adjectives
+![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-0.jpg)
+![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-1.jpg)
+![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-2.jpg)
 
 
 ## License
