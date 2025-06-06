@@ -5,16 +5,29 @@
 - These images were generated with generative AI tools for asynchronous materials. The following AI tools were used for images:
 	- Google Imagen (https://deepmind.google/models/imagen/)
 	- OpenAI Dall-e (https://openai.com/index/dall-e-3/)
+- Some, but not all, images are used as part of the practice sets.
 
 ## Thumbnails
 - あいさつ
-![](Genki3rdEdImageChatGPTCh00あいさつ/L00_あいさつ_collage-0.jpg)
-- XはYです
-![](Genki3rdEdImageChatGPTCh01XはYです/L01_1_XはYです_collage-0.jpg)
-- か
-![](Genki3rdEdImageChatGPTCh01か/L01_2_か_collage-0.jpg)
+![](ImagesModule01Greetings/L00_Greetings_collage-0_resized.jpg)
+![](ImagesModule01Greetings/L00_Greetings_collage-1_resized.jpg)
+![](ImagesModule01Greetings/L00_Greetings_collage-2_resized.jpg)
+- Numbers
+![](ImagesModule02Numbers/L00_Number_collage_resized.jpg)
+- Self-introduction
+![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-0_resized.jpg)
+![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-1_resized.jpg)
+![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-2_resized.jpg)
+![](ImagesModule04SelfIntroductions/L01_2_か_collage-0_resized.jpg)
+![](ImagesModule04SelfIntroductions/L01_2_か_collage-1_resized.jpg)
+- Large Numbers
+![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-0_resized.jpg)
+![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-1_resized.jpg)
+![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-2_resized.jpg)
 - こそあど
-![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0.jpg)
+![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0_resized.jpg)
+![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-1_resized.jpg)
+![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-2_resized.jpg)
 
 
 ## License
