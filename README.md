@@ -36,8 +36,11 @@ All modules in the asynchronous class will follow the same structure. As of Apri
 - Module 17: ましょう/ましょうか (Genki L5)
 - Module 18: Counters (Genki L5)
 
+## Using resources
+- Almost all resources here were developed with Generative AI (ChatGPT, DeepSeek, and Imagen3) and were edited by human instructors. The editing process is still in progress, and you may find somewhat strange (not wrong, but strange) Japanese sentences, audio, and images. This is an expected issue since the goal of this project was to create a large number of resources from which we can identify useful materials for different instructors based on their language targets and teaching styles.
+- The **practice** section contains resources used for the practice section of the asynchronous Japanese course ((https://t-nagano.com/mycourses/ELJ101Asynch/)).
+- The **images** section contains all images that we developed during the project. 
 
 ## License
 
-This work is licensed under a CC BY-NC-SA 4.0 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
+- This work is licensed under a CC BY-NC-SA 4.0 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Feel free to use it for your own purposes as long as it is not for commercial use. If you'd like to include a reference or citation, please refer to this GitHub page.
