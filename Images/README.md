@@ -28,6 +28,10 @@
 ![](ImagesModule06こそあど/L02_3_こそあど_collage-0_resized.jpg)
 ![](ImagesModule06こそあど/L02_3_こそあど_collage-1_resized.jpg)
 ![](ImagesModule06こそあど/L02_3_こそあど_collage-2_resized.jpg)
+- Verbs
+![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-0_resized.jpg)
+![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-1_resized.jpg)
+![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-2_resized.jpg)
 - 
 
 ## License
