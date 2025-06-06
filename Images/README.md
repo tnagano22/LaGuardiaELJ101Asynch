@@ -25,9 +25,9 @@
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-1_resized.jpg)
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-2_resized.jpg)
 - こそあど
-![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-0_resized.jpg)
-![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-1_resized.jpg)
-![](Genki3rdEdImageChatGPTCh02こそあど/L02_3_こそあど_collage-2_resized.jpg)
+![](ImagesModule06こそあど/L02_3_こそあど_collage-0_resized.jpg)
+![](ImagesModule06こそあど/L02_3_こそあど_collage-1_resized.jpg)
+![](ImagesModule06こそあど/L02_3_こそあど_collage-2_resized.jpg)
 
 
 ## License
