@@ -33,7 +33,10 @@
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-1_resized.jpg)
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-2_resized.jpg)
 - あります/います
-![](ImagesModule11ありますいます/L04_Verb_collage_resized.jpg)
+![](ImagesModule11ありますいます/L04_Verb_collage-0_resized.jpg)
+![](ImagesModule11ありますいます/L04_Verb_collage-1_resized.jpg)
+![](ImagesModule11ありますいます/L04_Verb_collage-2_resized.jpg)
+![](ImagesModule11ありますいます/L04_Verb_collage-3_resized.jpg)
 
 
 ## License
