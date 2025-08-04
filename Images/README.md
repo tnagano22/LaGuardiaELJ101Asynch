@@ -69,9 +69,9 @@
 
 - Particles もねよ
 
-![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-0_resized.jpg|width=1200)
-![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-1_resized.jpg|width=1200)
-![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-2_resized.jpg|width=1200)
+![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-0_resized.jpg)
+![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-1_resized.jpg)
+![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-2_resized.jpg)
 
 - Verbs
 
