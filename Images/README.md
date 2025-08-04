@@ -8,13 +8,19 @@
 - Some, but not all, images are used as part of the practice sets.
 
 ## Thumbnails
+
 - あいさつ
+
 ![](ImagesModule01Greetings/L00_Greetings_collage-0_resized.jpg)
 ![](ImagesModule01Greetings/L00_Greetings_collage-1_resized.jpg)
 ![](ImagesModule01Greetings/L00_Greetings_collage-2_resized.jpg)
+
 - Numbers
+
 ![](ImagesModule02Numbers/L00_Number_collage_resized.jpg)
+
 - Hiragana
+
 ![](ImagesModule03HiraganaAndKatakana/L00_01_Hiraganaあ-お_collage.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_02_Hiraganaあ-こ_collage.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_03_Hiraganaさ-と_collage.jpg)
@@ -40,39 +46,54 @@
 ![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-3.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-4.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-5.jpg)
+
 - Self-introduction
+
 ![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-0_resized.jpg)
 ![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-1_resized.jpg)
 ![](ImagesModule04SelfIntroductions/L01_1_XはYです_collage-2_resized.jpg)
 ![](ImagesModule04SelfIntroductions/L01_2_か_collage-0_resized.jpg)
 ![](ImagesModule04SelfIntroductions/L01_2_か_collage-1_resized.jpg)
+
 - Large Numbers
+
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-0_resized.jpg)
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-1_resized.jpg)
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-2_resized.jpg)
+
 - こそあど
+
 ![](ImagesModule06こそあど/L02_こそあど_collage-0_resized.jpg)
 ![](ImagesModule06こそあど/L02_こそあど_collage-1_resized.jpg)
 ![](ImagesModule06こそあど/L02_こそあど_collage-2_resized.jpg)
+
 - Particles もねよ
+
 ![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-0_resized.jpg)
 ![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-1_resized.jpg)
 ![](ImagesModule07Particlesもねよ/L02_Particlesねよ_collage-2_resized.jpg)
 
 - Verbs
+
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-0_resized.jpg)
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-1_resized.jpg)
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-2_resized.jpg)
+
 - あります/います
+
 ![](ImagesModule11ありますいます/L04_Verb_collage-0_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-1_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-2_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-3_resized.jpg)
+
 - Adjectives
+
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-0.jpg)
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-1.jpg)
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-2.jpg)
+
 - ましょうか
+
 ![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-0_resized.jpg)
 ![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-1_resized.jpg)
 
