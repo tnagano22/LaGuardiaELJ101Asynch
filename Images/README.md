@@ -67,6 +67,9 @@
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-0.jpg)
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-1.jpg)
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-2.jpg)
+- ましょうか
+![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-0.jpg)
+![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-1.jpg)
 
 
 ## License
