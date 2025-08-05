@@ -61,6 +61,11 @@
 ![](ImagesModule11ありますいます/L04_Verb_collage-2_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-3_resized.jpg)
 
+- Frequency adverbs
+
+![](ImagesModule14時間AndAdverbs/Ch03_FrequencyAdverbs_collage-0_resized.jpg)
+![](ImagesModule14時間AndAdverbs/Ch03_FrequencyAdverbs_collage-1_resized.jpg)
+
 - Adjectives
 
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-0.jpg)
