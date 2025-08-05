@@ -74,6 +74,32 @@
 ![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-0_resized.jpg)
 ![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-1_resized.jpg)
 
+- Vocabulary Ch01
+
+![](ImagesVocabulary01/ImagesVocabulary01_collage-0.jpg)
+![](ImagesVocabulary01/ImagesVocabulary01_collage-1.jpg)
+
+- Vocabulary Ch02
+
+![](ImagesVocabulary02/ImagesVocabulary01_collage-0.jpg)
+![](ImagesVocabulary02/ImagesVocabulary01_collage-1.jpg)
+
+- Vocabulary Ch03
+
+![](ImagesVocabulary03/ImagesVocabulary01_collage-0.jpg)
+![](ImagesVocabulary03/ImagesVocabulary01_collage-1.jpg)
+
+- Vocabulary Ch04
+
+![](ImagesVocabulary04/ImagesVocabulary01_collage-0.jpg)
+![](ImagesVocabulary04/ImagesVocabulary01_collage-1.jpg)
+![](ImagesVocabulary04/ImagesVocabulary01_collage-2.jpg)
+
+- Vocabulary Ch05
+
+![](ImagesVocabulary05/ImagesVocabulary01_collage-0.jpg)
+![](ImagesVocabulary05/ImagesVocabulary01_collage-1.jpg)
+
 
 ## License
 - This work is licensed under a CC BY-NC-SA 4.0 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Feel free to use any resources on this page for your own purposes as long as it is not for commercial use. If you'd like to include a reference or citation, please refer to this GitHub page.
