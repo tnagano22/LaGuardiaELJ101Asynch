@@ -21,31 +21,8 @@
 
 - Hiragana
 
-![](ImagesModule03HiraganaAndKatakana/L00_01_Hiraganaあ-お_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_02_Hiraganaあ-こ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_03_Hiraganaさ-と_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_04_Hiraganaあ-と_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_05_Hiraganaな-ほ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_06_Hiraganaあ-ほ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_07_Hiraganaま-よ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_08_Hiraganaあ-よ_collage-0.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_08_Hiraganaあ-よ_collage-1.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_09_Hiraganaら-ん_collage.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_10_Hiraganaあ-ん_collage-0.jpg)
 ![](ImagesModule03HiraganaAndKatakana/L00_10_Hiraganaあ-ん_collage-1.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_11_Hiraganaが-ぼ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_12_Hiraganaきゃ-ぴょ_collage-0.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_12_Hiraganaきゃ-ぴょ_collage-1.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_13_Hiraganaぱ-ぽ_collage.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_14_Hiraganaあっ-ぼっ_collage-0.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_14_Hiraganaあっ-ぼっ_collage-1.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_14_Hiraganaあっ-ぼっ_collage-2.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-0.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-1.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-2.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-3.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-4.jpg)
-![](ImagesModule03HiraganaAndKatakana/L00_15_Hiraganaあ-ぼっ_collage-5.jpg)
 
 - Self-introduction
 
