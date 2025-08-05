@@ -79,29 +79,29 @@
 
 - Vocabulary Ch01
 
-![](ImagesVocabulary01/ImagesVocabulary01_collage-0.jpg)
-![](ImagesVocabulary01/ImagesVocabulary01_collage-1.jpg)
+![](ImagesVocabulary01/ImagesVocabulary01_collage-0_resized.jpg)
+![](ImagesVocabulary01/ImagesVocabulary01_collage-1_resized.jpg)
 
 - Vocabulary Ch02
 
-![](ImagesVocabulary02/ImagesVocabulary02_collage-0.jpg)
-![](ImagesVocabulary02/ImagesVocabulary02_collage-1.jpg)
+![](ImagesVocabulary02/ImagesVocabulary02_collage-0_resized.jpg)
+![](ImagesVocabulary02/ImagesVocabulary02_collage-1_resized.jpg)
 
 - Vocabulary Ch03
 
-![](ImagesVocabulary03/ImagesVocabulary03_collage-0.jpg)
-![](ImagesVocabulary03/ImagesVocabulary03_collage-1.jpg)
+![](ImagesVocabulary03/ImagesVocabulary03_collage-0_resized.jpg)
+![](ImagesVocabulary03/ImagesVocabulary03_collage-1_resized.jpg)
 
 - Vocabulary Ch04
 
-![](ImagesVocabulary04/ImagesVocabulary04_collage-0.jpg)
-![](ImagesVocabulary04/ImagesVocabulary04_collage-1.jpg)
-![](ImagesVocabulary04/ImagesVocabulary04_collage-2.jpg)
+![](ImagesVocabulary04/ImagesVocabulary04_collage-0_resized.jpg)
+![](ImagesVocabulary04/ImagesVocabulary04_collage-1_resized.jpg)
+![](ImagesVocabulary04/ImagesVocabulary04_collage-2_resized.jpg)
 
 - Vocabulary Ch05
 
-![](ImagesVocabulary05/ImagesVocabulary05_collage-0.jpg)
-![](ImagesVocabulary05/ImagesVocabulary05_collage-1.jpg)
+![](ImagesVocabulary05/ImagesVocabulary05_collage-0_resized.jpg)
+![](ImagesVocabulary05/ImagesVocabulary05_collage-1_resized.jpg)
 
 
 ## License
