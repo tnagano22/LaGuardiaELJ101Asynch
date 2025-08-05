@@ -35,8 +35,6 @@
 - Large Numbers
 
 ![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-0_resized.jpg)
-![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-1_resized.jpg)
-![](ImagesModule05LargeNumbers/L01_LargeNumber_collage-2_resized.jpg)
 
 - こそあど
 
