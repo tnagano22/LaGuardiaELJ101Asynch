@@ -78,6 +78,13 @@
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-1.jpg)
 ![](ImagesModule15Adjectives/L04_AdjectiveInNewYork_collage-2.jpg)
 
+- 好きな/きらいな
+
+![](ImagesModule16好きなきらいな/L05_好きなきらいな_collage-0_resized.jpg)
+![](ImagesModule16好きなきらいな/L05_好きなきらいな_collage-1_resized.jpg)
+![](ImagesModule16好きなきらいな/L05_好きなきらいな_collage-2_resized.jpg)
+
+
 - ましょうか
 
 ![](ImagesModule17ましょうましょうか/L05_ましょうか_collage-0_resized.jpg)
