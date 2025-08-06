@@ -61,6 +61,12 @@
 ![](ImagesModule11ありますいます/L04_Verb_collage-2_resized.jpg)
 ![](ImagesModule11ありますいます/L04_Verb_collage-3_resized.jpg)
 
+- Past tense
+
+![](ImagesModule12PastTense/L04_VerbPastTense_collage-0_resized.jpg)
+![](ImagesModule12PastTense/L04_VerbPastTense_collage-1_resized.jpg)
+
+
 - Frequency adverbs
 
 ![](ImagesModule14時間AndAdverbs/Ch03_FrequencyAdverbs_collage-0_resized.jpg)
