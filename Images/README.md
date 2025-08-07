@@ -54,6 +54,16 @@
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-1_resized.jpg)
 ![](ImagesModule08DailyRoutinesAndVerbs/L03_Verb_collage-2_resized.jpg)
 
+- ませんか
+
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-0_resized.jpg)
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-1_resized.jpg)
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-2_resized.jpg)
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-3_resized.jpg)
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-4_resized.jpg)
+![](ImagesModule09TimeReferenceAndませんか/L03_ませんか_collage-5_resized.jpg)
+
+
 - あります/います
 
 ![](ImagesModule11ありますいます/L04_Verb_collage-0_resized.jpg)
