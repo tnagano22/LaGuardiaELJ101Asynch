@@ -1,0 +1,50 @@
+お待ちください; Please wait.
+少々お待ちください; Please wait a moment.
+こちらでお待ちください; Please wait here.
+しばらくお待ちください; Please wait for a while.
+恐れ入りますが、お待ちください; Excuse me, but please wait.
+おかけください; Please have a seat.
+お聞きください; Please listen.
+こちらをご覧ください; Please look at this.
+メモをお取りください; Please take a note.
+ゆっくりお話しください; Please speak slowly.
+もう一度おっしゃってください; Please say it again.
+お静かにお願いします; Please be quiet.
+お試しください; Please try it.
+お気をつけください; Please be careful.
+お入りください; Please come in.
+こちらへお越しください; Please come over here.
+道をあけてお待ちください; Please wait and make way.
+次の電車までお待ちください; Please wait until the next train.
+係員の指示にお従いください; Please follow the staff's instructions.
+非常口はこちらです。お進みください; The emergency exit is here. Please proceed.
+お手洗いはあちらです。どうぞ; The restroom is over there. Please go ahead.
+エレベーターをご利用ください; Please use the elevator.
+階段をお使いください; Please use the stairs.
+お名前をお書きください; Please write your name.
+ここにサインをお願いします; Please sign here.
+カバンはこちらに置いてください; Please leave your bag here.
+コートはお預かりします; I will take your coat.
+お席までご案内します; I will show you to your seat.
+メニューをどうぞ; Here is the menu.
+注文が決まりましたら、お呼びください; Please call me when you have decided on your order.
+お支払いはあちらでお願いします; Please make your payment over there.
+レシートをお受け取りください; Please take your receipt.
+非常の際は、落ち着いてお行動ください; In an emergency, please act calmly.
+この先、工事中です。ご注意ください; Construction ahead. Please be careful.
+混雑しております。お足元にご注意ください; It is crowded. Please watch your step.
+次のバスまでお待ちください; Please wait for the next bus.
+チャイムが鳴るまでお待ちください; Please wait until the chime rings.
+お呼びするまでお待ちください; Please wait until we call you.
+お手数ですが、こちらにご記入ください; I'm sorry for the trouble, but please fill this out.
+パンフレットをどうぞ; Here is a pamphlet.
+自由の女神を見学される方は、こちらへ並んでお待ちください; Those visiting the Statue of Liberty, please line up here.
+セントラルパーク内では、自転車の速度にお気をつけください; In Central Park, please be mindful of your bicycle speed.
+ブロードウェイのチケットは、事前にお求めになることをお勧めします; For Broadway tickets, we recommend purchasing them in advance.
+タイムズスクエアは大変混雑します。お荷物からお目を離さないでください; Times Square is very crowded. Please do not take your eyes off your luggage.
+地下鉄をご利用の際は、終電の時間にご注意ください; When using the subway, please note the time of the last train.
+美術館内では、フラッシュ撮影はなさらないでください; Inside the museum, please do not use flash photography.
+エンパイアステートビル展望台への列は、建物の西側へお並びください; For the line to the Empire State Building observatory, please line up on the west side of the building.
+5番街の歩行者天国は日曜日です。お車でお越しの方はご注意ください; The pedestrian zone on 5th Avenue is on Sundays. Please note if you are coming by car.
+ニューヨークマラソン観戦の際は、応援エリアからお声をおかけください; When watching the New York Marathon, please cheer from the designated areas.
+公共の場では、携帯電話の通話はお控えめに; In public places, please keep mobile phone calls to a minimum.

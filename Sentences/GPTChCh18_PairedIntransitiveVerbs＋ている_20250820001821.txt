@@ -1,0 +1,50 @@
+窓が開いています;The window is open
+ドアが閉まっています;The door is closed
+電気が消えています;The lights are off
+電気がついています;The lights are on
+テレビがついています;The TV is on
+パソコンが壊れています;The computer is broken
+時計が止まっています;The clock has stopped
+時計が動いています;The clock is working
+冷蔵庫のドアが開いています;The refrigerator door is open
+本が並んでいます;The books are lined up
+椅子が並んでいます;The chairs are lined up
+人が集まっています;People are gathering
+子供が並んでいます;Children are lining up
+生徒が座っています;The students are sitting
+先生が立っています;The teacher is standing
+猫が死んでいます;The cat has died
+花が枯れています;The flowers have withered
+車が止まっています;The car is parked
+電車が動いています;The train is moving
+エレベーターが動いています;The elevator is operating
+エレベーターが止まっています;The elevator is stopped
+コップが割れています;The glass is broken
+服が汚れています;The clothes are dirty
+シャツが破れています;The shirt is torn
+窓ガラスが割れています;The windowpane is broken
+公園のベンチが壊れています;The park bench is broken
+道が曲がっています;The road is curved
+アイロンが熱くなっています;The iron is hot
+コーヒーが冷めています;The coffee has gotten cold
+パンが硬くなっています;The bread has become hard
+アイスクリームが溶けています;The ice cream is melting
+肉が焼けています;The meat is cooked
+魚が焼けています;The fish is grilled
+ご飯が炊けています;The rice is cooked
+野菜が切れています;The vegetables are cut
+ニューヨークの地下鉄のドアが閉まっています;The New York subway doors are closing
+タイムズスクエアに人が集まっています;People are gathering in Times Square
+セントラルパークでコンサートが始まっています;A concert is starting in Central Park
+自由の女神のチケットが並んでいます;Tickets for the Statue of Liberty are lined up
+美術館の前に行列ができています;A line has formed in front of the museum
+ブロードウェイの劇場の灯がついています;The lights are on at the Broadway theater
+エンパイアステートビルの窓が光っています;The windows of the Empire State Building are lit up
+5番街の店が閉まっています;The stores on 5th Avenue are closed
+マンハッタンのカフェが開いています;The cafes in Manhattan are open
+地下鉄の電車が到着しています;The subway train is arriving
+レストランの予約が入っています;A restaurant reservation is made
+ホテルの部屋が予約されています;The hotel room is booked
+会議が終わっています;The meeting has ended
+パーティーが始まっています;The party has started
+ニューヨークの空港に飛行機が着いています;The plane has arrived at the New York airport

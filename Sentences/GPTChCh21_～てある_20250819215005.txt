@@ -1,0 +1,50 @@
+窓が開けてあります; The window has been opened
+ドアが閉めてあります; The door has been closed
+電気が消してあります; The lights have been turned off
+カギがかけてあります; The lock has been locked
+テーブルが拭いてあります; The table has been wiped
+花が飾ってあります; Flowers have been decorated
+ベッドが作ってあります; The bed has been made
+地図が貼ってあります; A map has been posted
+パソコンが直してあります; The computer has been fixed
+ご飯が炊いてあります; Rice has been cooked
+お茶が入れてあります; Tea has been prepared
+ケーキが冷やしてあります; The cake has been chilled
+メモが書いてあります; A note has been written
+名前が呼んであります; Names have been called
+切符が予約してあります; Tickets have been reserved
+服が畳んであります; Clothes have been folded
+洗濯物が干してあります; Laundry has been hung out
+カーテンが閉めてあります; The curtains have been closed
+エアコンがつけてあります; The air conditioner has been turned on
+ラジオが消してあります; The radio has been turned off
+冷蔵庫に飲み物が入れてあります; Drinks have been put in the refrigerator
+本棚に本が並べてあります; Books have been arranged on the shelf
+黒板に字が書いてあります; Characters have been written on the blackboard
+壁に絵が掛けてあります; A painting has been hung on the wall
+ソファに布がかけてあります; A cloth has been draped over the sofa
+駐車場に車が止めてあります; A car has been parked in the parking lot
+カバンの中に弁当が入れてあります; A boxed lunch has been placed inside the bag
+引き出しに書類が整理してあります; Documents have been organized in the drawer
+カレンダーに印がつけてあります; A mark has been put on the calendar
+ニューヨークの地図が広げてあります; A map of New York has been spread out
+自由の女神の写真が飾ってあります; A photo of the Statue of Liberty has been displayed
+ブロードウェイのチケットが買ってあります; Broadway tickets have been purchased
+セントラルパークで使う毛布が用意してあります; A blanket to use in Central Park has been prepared
+タイムズスクエアへの道が調べてあります; The route to Times Square has been checked
+博物館の開館時間が確認してあります; The museum's opening hours have been confirmed
+空港へのバスの時刻がメモしてあります; The bus schedule to the airport has been noted
+ホテルの予約がしてあります; A hotel reservation has been made
+エンパイアステートビルの展望台のチケットが取ってあります; Tickets for the Empire State Building observatory have been booked
+メトロカードに十分なお金が入れてあります; Enough money has been put on the MetroCard
+観光バスの席が確保してあります; Seats on the sightseeing bus have been secured
+感謝祭のパレードの場所が確保してあります; A spot for the Thanksgiving parade has been secured
+ニューヨークの天気がチェックしてあります; The weather in New York has been checked
+高層ビルの展望台の予約がしてあります; A reservation for the skyscraper observatory has been made
+美術館のガイドブックが買ってあります; A museum guidebook has been bought
+地下鉄の路線図がダウンロードしてあります; A subway map has been downloaded
+コンサートのチケットが手配してあります; Concert tickets have been arranged
+スーツケースに必要なものが全部詰めてあります; All necessary items have been packed in the suitcase
+友達へのお土産が選んであります; Souvenirs for friends have been chosen
+携帯電話の充電がしてあります; The cell phone has been charged
+緊急連絡先が書いてあります; Emergency contact information has been written down

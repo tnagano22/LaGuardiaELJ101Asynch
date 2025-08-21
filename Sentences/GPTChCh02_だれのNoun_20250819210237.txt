@@ -1,0 +1,51 @@
+これはだれのかさですか。; Whose umbrella is this?
+それはだれのほんですか。; Whose book is that?
+あれはだれのかばんですか。; Whose bag is that over there?
+これはだれのじてんしゃですか。; Whose bicycle is this?
+それはだれのけしゴムですか。; Whose eraser is that?
+あれはだれのとけいですか。; Whose watch is that over there?
+これはだれのえんぴつですか。; Whose pencil is this?
+それはだれのペンですか。; Whose pen is that?
+あれはだれのノートですか。; Whose notebook is that over there?
+これはだれのしんぶんですか。; Whose newspaper is this?
+それはだれのざっしですか。; Whose magazine is that?
+あれはだれのテレビですか。; Whose television is that over there?
+これはだれのラジオですか。; Whose radio is this?
+それはだれのカメラですか。; Whose camera is that?
+あれはだれのパソコンですか。; Whose computer is that over there?
+これはだれのくつですか。; Whose shoes are these?
+それはだれのぼうしですか。; Whose hat is that?
+あれはだれのめがねですか。; Whose glasses are those over there?
+これはだれのじてんしゃのカギですか。; Whose bicycle key is this?
+それはだれのかぎですか。; Whose key is that?
+あれはだれのいすですか。; Whose chair is that over there?
+これはだれのつくえですか。; Whose desk is this?
+それはだれのえんぴつけずりですか。; Whose pencil sharpener is that?
+あれはだれのけいたいですか。; Whose cell phone is that over there?
+これはだれのじてんしゃですか。; Whose bicycle is this?
+それはだれのくるまですか。; Whose car is that?
+あれはだれのいえですか。; Whose house is that over there?
+これはだれのとけいですか。; Whose clock is this?
+それはだれのしゃしんですか。; Whose photograph is that?
+あれはだれのてがみですか。; Whose letter is that over there?
+これはだれのチョコレートですか。; Whose chocolate is this?
+それはだれのコーヒーですか。; Whose coffee is that?
+あれはだれのみずですか。; Whose water is that over there?
+これはだれのおかねですか。; Whose money is this?
+それはだれのカードですか。; Whose card is that?
+あれはだれのネクタイですか。; Whose tie is that over there?
+これはだれのくつしたですか。; Whose socks are these?
+それはだれのシャツですか。; Whose shirt is that?
+あれはだれのスカートですか。; Whose skirt is that over there?
+これはだれのぼうしですか。; Whose hat is this?
+それはだれのコートですか。; Whose coat is that?
+あれはだれのてぶくろですか。; Whose gloves are those over there?
+これはだれのかさですか。; Whose umbrella is this?
+それはだれのめがねですか。; Whose glasses are those?
+あれはだれのカバンですか。; Whose bag is that over there?
+これはだれのほんですか。; Whose book is this?
+それはだれのざっしですか。; Whose magazine is that?
+あれはだれのしんぶんですか。; Whose newspaper is that over there?
+これはだれのノートですか。; Whose notebook is this?
+それはだれのペンですか。; Whose pen is that?
+あれはだれのえんぴつですか。; Whose pencil is that over there?

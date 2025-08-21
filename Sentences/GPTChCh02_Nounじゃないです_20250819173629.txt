@@ -1,0 +1,50 @@
+メアリーさんは がくせいじゃないです。; Mary is not a student.
+これは ほんじゃないです。; This is not a book.
+それは えんぴつじゃないです。; That is not a pencil.
+あれは じてんしゃじゃないです。; That (over there) is not a bicycle.
+わたしは せんせいじゃないです。; I am not a teacher.
+サントスさんは かいしゃいんじゃないです。; Mr. Santos is not a company employee.
+これは ざっしじゃないです。; This is not a magazine.
+それは とけいじゃないです。; That is not a watch.
+あれは カメラじゃないです。; That (over there) is not a camera.
+わたしは いしゃじゃないです。; I am not a doctor.
+ジョンさんは べんごしじゃないです。; John is not a lawyer.
+これは くるまじゃないです。; This is not a car.
+それは テレビじゃないです。; That is not a TV.
+あれは ラジオじゃないです。; That (over there) is not a radio.
+メアリーさんは かんごふじゃないです。; Mary is not a nurse.
+これは ノートじゃないです。; This is not a notebook.
+それは しんぶんじゃないです。; That is not a newspaper.
+あれは コンピューターじゃないです。; That (over there) is not a computer.
+わたしは エンジニアじゃないです。; I am not an engineer.
+サントスさんは がくせいじゃないです。; Mr. Santos is not a student.
+これは つくえじゃないです。; This is not a desk.
+それは いすじゃないです。; That is not a chair.
+あれは でんわじゃないです。; That (over there) is not a telephone.
+ジョンさんは けいさつかんじゃないです。; John is not a police officer.
+これは かばんじゃないです。; This is not a bag.
+それは じてんしゃじゃないです。; That is not a bicycle.
+あれは くるまじゃないです。; That (over there) is not a car.
+メアリーさんは おんがくかじゃないです。; Mary is not a musician.
+これは ペンじゃないです。; This is not a pen.
+それは えんぴつじゃないです。; That is not a pencil.
+あれは ほんじゃないです。; That (over there) is not a book.
+わたしは かいしゃいんじゃないです。; I am not a company employee.
+サントスさんは いしゃじゃないです。; Mr. Santos is not a doctor.
+これは ざっしじゃないです。; This is not a magazine.
+それは とけいじゃないです。; That is not a watch.
+あれは しんぶんじゃないです。; That (over there) is not a newspaper.
+ジョンさんは せんせいじゃないです。; John is not a teacher.
+これは カメラじゃないです。; This is not a camera.
+それは テレビじゃないです。; That is not a TV.
+あれは ラジオじゃないです。; That (over there) is not a radio.
+メアリーさんは べんごしじゃないです。; Mary is not a lawyer.
+これは ノートじゃないです。; This is not a notebook.
+それは でんわじゃないです。; That is not a telephone.
+あれは コンピューターじゃないです。; That (over there) is not a computer.
+わたしは かんごふじゃないです。; I am not a nurse.
+サントスさんは エンジニアじゃないです。; Mr. Santos is not an engineer.
+これは つくえじゃないです。; This is not a desk.
+それは いすじゃないです。; That is not a chair.
+あれは かばんじゃないです。; That (over there) is not a bag.
+ジョンさんは おんがくかじゃないです。; John is not a musician.

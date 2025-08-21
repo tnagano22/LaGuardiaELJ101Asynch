@@ -1,0 +1,60 @@
+写真を撮ってもいいですか。; May I take a photo?
+窓を開けてもいいです。; You may open the window.
+ここに座ってもいいですか。; May I sit here?
+鉛筆で書いてもいいです。; You may write with a pencil.
+音楽を聞いてもいいですか。; May I listen to music?
+トイレに行ってもいいですか。; May I go to the bathroom?
+名前を呼んでもいいですか。; May I call your name?
+この本を読んでもいいです。; You may read this book.
+水を飲んでもいいですか。; May I drink water?
+宿題を後で出してもいいです。; You may submit the homework later.
+電話をかけてもいいですか。; May I make a phone call?
+外で食べてもいいです。; You may eat outside.
+ニューヨークの写真を見せてもいいですか。; May I show you photos of New York?
+友達と話してもいいです。; You may talk with your friend.
+図書館で勉強してもいいですか。; May I study in the library?
+パソコンを使ってもいいです。; You may use the computer.
+ここで待ってもいいですか。; May I wait here?
+タクシーを呼んでもいいです。; You may call a taxi.
+中央公園を散歩してもいいですか。; May I take a walk in Central Park?
+ちょっと休んでもいいです。; You may take a short break.
+メールを送ってもいいですか。; May I send an email?
+あの店に入ってもいいです。; You may enter that store.
+質問をしてもいいですか。; May I ask a question?
+コーヒーを買ってもいいです。; You may buy coffee.
+答えを教えてもいいですか。; May I tell you the answer?
+映画を見てもいいです。; You may watch a movie.
+ニューヨークに行ってもいいですか。; May I go to New York?
+早く帰ってもいいです。; You may go home early.
+ノートを借りてもいいですか。; May I borrow your notebook?
+日本語で話してもいいです。; You may speak in Japanese.
+音楽を止めてもいいですか。; May I stop the music?
+テレビを見てもいいです。; You may watch TV.
+窓を閉めてもいいですか。; May I close the window?
+自由の女神を見学してもいいです。; You may visit the Statue of Liberty.
+テストの時間を確認してもいいですか。; May I confirm the test time?
+あのレストランで食事をしてもいいです。; You may have a meal at that restaurant.
+地図を見てもいいですか。; May I look at the map?
+シャワーを浴びてもいいです。; You may take a shower.
+ニューヨークの話をしてもいいですか。; May I talk about New York?
+写真を撮りに行ってもいいです。; You may go to take pictures.
+歌を歌ってもいいですか。; May I sing a song?
+公園でサッカーをしてもいいです。; You may play soccer in the park.
+宿題を手伝ってもいいですか。; May I help with the homework?
+バスに乗ってもいいです。; You may take the bus.
+メトロポリタン美術館へ行ってもいいですか。; May I go to the Metropolitan Museum of Art?
+日本語の本を読んでもいいです。; You may read a Japanese book.
+ニューヨークの天気を調べてもいいですか。; May I check the weather in New York?
+椅子を持ってきてもいいです。; You may bring a chair.
+昼ごはんを食べに行ってもいいですか。; May I go to eat lunch?
+タイムズスクエアで待ち合わせをしてもいいです。; You may meet up in Times Square.
+プレゼントを開けてもいいですか。; May I open the present?
+ケーキを食べてもいいです。; You may eat the cake.
+日本語で日記を書いてもいいですか。; May I write my diary in Japanese?
+ニューヨークのカフェで勉強してもいいです。; You may study at a cafe in New York.
+ドアを閉めてもいいですか。; May I close the door?
+電車で帰ってもいいです。; You may go home by train.
+明日、電話をしてもいいですか。; May I call you tomorrow?
+友達に会いに行ってもいいです。; You may go to meet your friend.
+ニューヨークの地図をもらってもいいですか。; May I have a map of New York?
+自転車を使ってもいいです。; You may use the bicycle.

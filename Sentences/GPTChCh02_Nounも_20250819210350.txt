@@ -1,0 +1,50 @@
+おかあさんも にほんじんです。; My mother is also Japanese.
+せんせいも アメリカじんです。; The teacher is also American.
+これも ほんです。; This is also a book.
+それも じしょです。; That is also a dictionary.
+あれも とけいです。; That over there is also a clock.
+わたしも がくせいです。; I am also a student.
+あなたも エンジニアです。; You are also an engineer.
+ジョンさんも いしゃです。; John is also a doctor.
+メアリーさんも かいしゃいんです。; Mary is also a company employee.
+これも えんぴつです。; This is also a pencil.
+それも ペンです。; That is also a pen.
+あれも かさです。; That over there is also an umbrella.
+わたしの ともだちも がくせいです。; My friend is also a student.
+あなたの ともだちも カナダじんです。; Your friend is also Canadian.
+これも ざっしです。; This is also a magazine.
+それも しんぶんです。; That is also a newspaper.
+あれも ノートです。; That over there is also a notebook.
+わたしも にほんじんではありません。; I am also not Japanese.
+あなたも せんせいではありません。; You are also not a teacher.
+ジムさんも いしゃではありません。; Jim is also not a doctor.
+これも てちょうではありません。; This is also not a datebook.
+それも カメラではありません。; That is also not a camera.
+あれも ラジオではありません。; That over there is also not a radio.
+スミスさんも かいしゃいんではありません。; Mr. Smith is also not a company employee.
+これも くつではありません。; This is also not a shoe.
+それも ぼうしではありません。; That is also not a hat.
+あれも かばんではありません。; That over there is also not a bag.
+わたしの ちちも にほんじんです。; My father is also Japanese.
+あなたの ははも にほんじんですか。; Is your mother also Japanese?
+ロバートさんも がくせいですか。; Is Robert also a student?
+これも えんぴつですか。; Is this also a pencil?
+それも じしょですか。; Is that also a dictionary?
+あれも とけいですか。; Is that over there also a clock?
+メアリーさんも アメリカじんですか。; Is Mary also American?
+これも ほんですか。; Is this also a book?
+それも ざっしですか。; Is that also a magazine?
+あれも しんぶんですか。; Is that over there also a newspaper?
+わたしも イギリスじんではありません。; I am also not British.
+あなたも オーストラリアじんではありません。; You are also not Australian.
+サントスさんも ブラジルじんではありません。; Mr. Santos is also not Brazilian.
+これも かさではありません。; This is also not an umbrella.
+それも てちょうではありません。; That is also not a datebook.
+あれも ノートではありません。; That over there is also not a notebook.
+わたしの あねも がくせいです。; My older sister is also a student.
+あなたの おとうとも いしゃです。; Your younger brother is also a doctor.
+タワポンさんも タイじんです。; Mr. Tawapon is also Thai.
+これも ペンですか。; Is this also a pen?
+それも カメラですか。; Is that also a camera?
+あれも ラジオですか。; Is that over there also a radio?
+リーさんも ちゅうごくじんですか。; Is Ms. Li also Chinese?

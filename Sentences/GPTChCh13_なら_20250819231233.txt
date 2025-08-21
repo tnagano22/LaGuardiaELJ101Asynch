@@ -1,0 +1,51 @@
+紅茶なら飲みます。; I drink black tea (if that's what you're offering).
+本なら読みます。; I read books (if that's what we're talking about).
+日本語のクラスなら、月曜日と水曜日があります。; As for Japanese class, it's on Monday and Wednesday.
+ニューヨークなら、セントラルパークが有名です。; When it comes to New York, Central Park is famous.
+映画なら、見たいです。; If it's a movie, I want to see it.
+あのレストランなら、高いです。; That restaurant (in particular) is expensive.
+土曜日なら、時間があります。; If it's Saturday, I have time.
+宿題なら、もう終わりました。; As for the homework, I already finished it.
+テストなら、来週です。; The test is next week (if you're asking about that).
+コーヒーなら、あまり飲みません。; I don't drink much coffee (if that's what you mean).
+マンハッタンなら、電車で行きます。; To get to Manhattan, I go by train.
+友達のパーティーなら、行きます。; If it's my friend's party, I will go.
+勉強なら、図書館でします。; I study at the library (if we're talking about studying).
+日本の食べ物なら、寿司が好きです。; When it comes to Japanese food, I like sushi.
+あの美術館なら、先週行きました。; I went to that museum last week (if you're referring to that one).
+時間なら、今、三時です。; The time is now three o'clock (if you're asking for the time).
+天気なら、今日は晴れです。; The weather today is clear (if that's your question).
+プレゼントなら、何がいいですか。; If it's about a gift, what would be good?
+誕生日なら、五月五日です。; My birthday is May 5th (if you're asking about that).
+冬休みなら、ニューヨークへ行きます。; For winter vacation, I'm going to New York.
+音楽なら、ロックが好きです。; As for music, I like rock.
+スポーツなら、サッカーをします。; I play soccer (if we're talking about sports).
+安いカメラなら、あの店で買います。; I buy cheap cameras at that store.
+新しいパソコンなら、必要です。; I need a new computer (if that's the issue).
+小さい辞書なら、かばんに入ります。; A small dictionary will fit in my bag.
+静かな場所なら、あのカフェです。; That cafe is a quiet place (if you're looking for one).
+駅までなら、十分です。; It takes ten minutes to the station (if that's the destination).
+昼ごはんなら、もう食べました。; I already ate lunch (if that's what you're asking).
+メアリーさんなら、あそこにいます。; Mary is over there (if you're looking for her).
+日本語の先生なら、とても親切です。; The Japanese teacher is very kind (specifically).
+高いレストランなら、あまり行きません。; I don't go to expensive restaurants very often.
+週末なら、たいてい家にいます。; I'm usually at home on weekends.
+ロックフェラーセンターなら、スケートをします。; At Rockefeller Center, people ice skate.
+夏なら、ビーチへ行きます。; In the summer, I go to the beach.
+秋なら、紅葉がきれいです。; In the fall, the autumn leaves are beautiful.
+地下鉄なら、安いです。; The subway is cheap (if that's your mode of transport).
+手紙なら、まだ書いていません。; I haven't written the letter yet (if that's the one).
+宿題を手伝うなら、今は忙しいです。; If you want me to help with homework, I'm busy now.
+タイムズスクエアなら、いつも人が多いです。; Times Square always has a lot of people.
+土産を買うなら、その店がいいです。; That store is good for buying souvenirs.
+音楽会なら、切符が要ります。; You need tickets for a concert.
+図書館で本を借りるなら、カードが要ります。; You need a card to borrow books from the library.
+昼間なら、安全です。; It's safe during the daytime.
+夜なら、あの道は暗いです。; That street is dark at night.
+パンなら、あのパン屋がおいしいです。; That bakery has delicious bread.
+魚なら、食べません。; I don't eat fish (if that's the food).
+肉なら、食べます。; I do eat meat (in contrast).
+銀行へ行くなら、ここから近いです。; The bank is close from here (if you need to go).
+病気なら、薬を飲みます。; If I'm sick, I take medicine.
+電気なら、つけます。; I'll turn on the light (if you want).
+窓なら、閉めます。; I'll close the window (if that's what you mean).

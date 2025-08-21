@@ -1,0 +1,88 @@
+何か食べたいです; I want to eat something.
+何も食べたくないです; I don't want to eat anything.
+週末に何かしましたか; Did you do anything over the weekend?
+週末は何もしませんでした; I didn't do anything over the weekend.
+何か飲み物を買いました; I bought something to drink.
+何も買いませんでした; I didn't buy anything.
+ニューヨークで何か面白い場所がありますか; Is there any interesting place in New York?
+今は何も予定がありません; I don't have any plans right now.
+カフェで何か読みます; I read something at a cafe.
+昨日は家で何もしませんでした; I didn't do anything at home yesterday.
+何か質問がありますか; Do you have any questions?
+質問は何もありません; I don't have any questions.
+何かいい本を貸してください; Please lend me some good book.
+いい本は何もありません; I don't have any good books.
+何か音楽を聞きましょう; Let's listen to some music.
+音楽は何も聞きません; I don't listen to any music.
+何か手伝いましょうか; Shall I help you with something?
+いいえ、何も手伝わないでください; No, please don't help me with anything.
+何か書くものが必要です; I need something to write with.
+何も書くものがありません; I don't have anything to write with.
+何か冷たい飲み物が欲しいです; I want some cold drink.
+冷たい飲み物は何もありません; There isn't any cold drink.
+何かニューヨークのお土産を買いました; I bought some souvenir from New York.
+お土産は何も買いませんでした; I didn't buy any souvenirs.
+何か映画を見ますか; Will you watch some movie?
+いいえ、何も見ません; No, I won't watch anything.
+何かスポーツをしますか; Do you play any sports?
+いいえ、何もしません; No, I don't play any.
+何か日本の食べ物を作りました; I made some Japanese food.
+昨日は何も作りませんでした; I didn't make anything yesterday.
+何か問題がありますか; Is there any problem?
+問題は何もありません; There isn't any problem.
+何かプレゼントをもらいました; I received some present.
+誕生日に何ももらいませんでした; I didn't receive anything for my birthday.
+何か用事があります; I have some errand.
+今日は用事が何もありません; I don't have any errands today.
+何か話してください; Please tell me something.
+話すことが何もありません; I have nothing to talk about.
+何か勉強しましたか; Did you study something?
+いいえ、何も勉強しませんでした; No, I didn't study anything.
+何か約束があります; I have some promise.
+今日は約束が何もありません; I don't have any promises today.
+何かニューヨークの写真を見せてください; Please show me some photos of New York.
+写真は何もありません; I don't have any photos.
+何かアイデアがありますか; Do you have any ideas?
+アイデアは何もありません; I don't have any ideas.
+何か趣味がありますか; Do you have any hobbies?
+趣味は何もありません; I don't have any hobbies.
+何か仕事をしていますか; Do you do any work?
+今、仕事は何もしていません; I'm not doing any work now.
+何か計画があります; I have some plans.
+夏休みの計画は何もありません; I don't have any plans for summer vacation.
+何か食べ物を注文しました; I ordered some food.
+飲み物は何も注文しませんでした; I didn't order any drinks.
+何かニュースを見ましたか; Did you watch some news?
+いいえ、何も見ませんでした; No, I didn't watch anything.
+何か手紙を書きました; I wrote some letters.
+昨日は手紙を何も書きませんでした; I didn't write any letters yesterday.
+何か楽しいことをしたいです; I want to do something fun.
+今日は何もしたくないです; I don't want to do anything today.
+何か秘密がありますか; Do you have any secrets?
+秘密は何もありません; I don't have any secrets.
+何か買い物をしました; I did some shopping.
+服は何も買いませんでした; I didn't buy any clothes.
+何か質問をしてください; Please ask me some questions.
+質問は何も思い出せません; I can't think of any questions.
+何か音楽を聞きたいです; I want to listen to some music.
+今は何も聞きたくないです; I don't want to listen to anything now.
+何かニューヨークのことを知っていますか; Do you know anything about New York?
+ニューヨークについては何も知りません; I don't know anything about New York.
+何か違いがありますか; Is there any difference?
+違いは何もありません; There is no difference.
+何か準備が必要です; Some preparation is necessary.
+準備は何もいりません; No preparation is needed.
+何か問題が起きました; Some problem occurred.
+ここでは問題は何も起きません; No problems occur here.
+何かお願いがあります; I have a favor to ask.
+お願いは何もありません; I don't have any favors.
+何か変化がありますか; Is there any change?
+変化は何もありません; There is no change.
+何かアドバイスをください; Please give me some advice.
+アドバイスは何もできません; I can't give any advice.
+何か夢があります; I have some dream.
+特別な夢は何もありません; I don't have any special dreams.
+何かニューヨークでイベントがありますか; Is there any event in New York?
+今週はイベントが何もありません; There aren't any events this week.
+何か運動をしましたか; Did you do some exercise?
+いいえ、何もしていません; No, I didn't do any.

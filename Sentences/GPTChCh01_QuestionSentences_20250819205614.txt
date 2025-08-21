@@ -1,0 +1,51 @@
+メアリーさんは アメリカじんですか。; Is Mary an American?
+たけしさんは がくせいですか。; Is Takeshi a student?
+これは ほんですか。; Is this a book?
+それは じしょですか。; Is that a dictionary?
+あれは とけいですか。; Is that (over there) a clock?
+これは なんですか。; What is this?
+それは えんぴつですか。; Is that a pencil?
+あれは かさですか。; Is that (over there) an umbrella?
+あなたは ジョンさんですか。; Are you John?
+かのじょは せんせいですか。; Is she a teacher?
+あのひとは だれですか。; Who is that person?
+これは あなたの かばんですか。; Is this your bag?
+それは だれの てがみですか。; Whose letter is that?
+あれは メアリーさんの ざっしですか。; Is that (over there) Mary's magazine?
+あなたは イギリスじんですか。; Are you British?
+マイクさんは かいしゃいんですか。; Is Mike a company employee?
+これは ノートですか。; Is this a notebook?
+それは しんぶんですか。; Is that a newspaper?
+あれは でんわですか。; Is that (over there) a telephone?
+あなたの おいくつですか。; How old are you? (Note: This uses おいくつ which is introduced in Genki Ch.1 as the polite way to ask age)
+たなかさんは にほんじんですか。; Is Tanaka Japanese?
+これは ボールペンですか。; Is this a ballpoint pen?
+それは あなたの くるまですか。; Is that your car?
+あれは コンピューターですか。; Is that (over there) a computer?
+あなたは がくせいですか。; Are you a student?
+スーさんは ちゅうごくじんですか。; Is Sue Chinese?
+これは チョコレートですか。; Is this chocolate?
+それは コーヒーですか。; Is that coffee?
+あれは みずですか。; Is that (over there) water?
+あなたの なまえは なんですか。; What is your name?
+ロバートさんは ブラジルじんですか。; Is Robert Brazilian?
+これは ペンですか、えんぴつですか。; Is this a pen or a pencil?
+それは あなたの いえですか。; Is that your house?
+あれは がっこうですか。; Is that (over there) a school?
+あなたは とうきょうだいがくの がくせいですか。; Are you a student at Tokyo University?
+これは にほんごの ほんですか。; Is this a Japanese book?
+それは やすみですか。; Is that a break/vacation? (Note: やすみ is introduced as "rest, a break, a holiday")
+あれは レストランですか。; Is that (over there) a restaurant?
+あなたの でんわばんごうは なんですか。; What is your telephone number?
+これは テレビですか。; Is this a television?
+それは ラジオですか。; Is that a radio?
+あれは つくえですか。; Is that (over there) a desk?
+あなたは いしゃですか。; Are you a doctor?
+これは いすですか。; Is this a chair?
+それは まどですか。; Is that a window?
+あれは とですか。; Is that (over there) a door?
+あなたは エンジニアですか。; Are you an engineer?
+これは カメラですか。; Is this a camera?
+それは くるまの かぎですか。; Is that a car key?
+あれは でんしゃですか。; Is that (over there) a train?
+あなたの しごとは なんですか。; What is your job?

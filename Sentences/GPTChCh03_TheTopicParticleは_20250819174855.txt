@@ -1,0 +1,54 @@
+週末はたいてい何をしますか。; What do you usually do on weekends?
+私は学生です。; I am a student.
+ニューヨークは大きいです。; New York is big.
+セントラルパークはきれいです。; Central Park is beautiful.
+これは本です。; This is a book.
+あれはエンパイアステートビルです。; That is the Empire State Building.
+私はコーヒーを飲みます。; I drink coffee.
+マリアさんは日本人ではありません。; Maria is not Japanese.
+土曜日は勉強します。; I study on Saturdays.
+日曜日は働きません。; I don't work on Sundays.
+これは私の傘です。; This is my umbrella.
+それはあなたのカメラですか。; Is that your camera?
+駅はあそこです。; The station is over there.
+図書館は静かです。; The library is quiet.
+ニューヨークの地下鉄は便利です。; The New York subway is convenient.
+タイムズスクエアはにぎやかです。; Times Square is lively.
+私は映画を見ます。; I watch movies.
+メアリーさんは音楽を聞きます。; Mary listens to music.
+ジョンさんはテニスをします。; John plays tennis.
+私はパンとサラダを食べます。; I eat bread and salad.
+これは辞書ではありません。; This is not a dictionary.
+私は毎朝六時に起きます。; I get up at six every morning.
+学校は八時半に始まります。; School starts at eight-thirty.
+昼ごはんは十二時です。; Lunch is at twelve o'clock.
+銀行は月曜日は休みです。; The bank is closed on Mondays.
+あの建物は高くないです。; That building is not tall.
+このレストランは高くないです。; This restaurant is not expensive.
+コーヒーは熱いです。; The coffee is hot.
+アイスクリームは冷たいです。; The ice cream is cold.
+テストは難しくないです。; The test is not difficult.
+宿題は簡単です。; The homework is easy.
+私はニューヨークが好きです。; I like New York.
+私は日本語の勉強が好きです。; I like studying Japanese.
+ロックフェラーセンターは有名です。; Rockefeller Center is famous.
+私はサッカーが好きではありません。; I don't like soccer.
+私は猫がいません。; I don't have a cat.
+私は兄弟がいます。; I have siblings.
+私の部屋は広くないです。; My room is not spacious.
+私の国はアメリカです。; My country is America.
+これはだれのペンですか。; Whose pen is this?
+あの方はどなたですか。; Who is that person? (polite)
+誕生日は十月五日です。; My birthday is October fifth.
+今、午前十一時二十分です。; It is now 11:20 AM.
+私は晩ごはんを七時に食べます。; I eat dinner at seven.
+月曜日と水曜日は忙しいです。; Mondays and Wednesdays are busy.
+私はよく友達と話します。; I often talk with friends.
+私は時々コンサートに行きます。; I sometimes go to concerts.
+私はあまりテレビを見ません。; I don't watch TV very much.
+メトロポリタン美術館はすばらしいです。; The Metropolitan Museum of Art is wonderful.
+私は全然お酒を飲みません。; I don't drink alcohol at all.
+冬は寒いです。; Winter is cold.
+夏のニューヨークは暑いです。; New York in summer is hot.
+春は暖かいです。; Spring is warm.
+秋は涼しいです。; Autumn is cool.

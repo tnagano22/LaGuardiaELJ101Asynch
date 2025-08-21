@@ -1,0 +1,51 @@
+バスのほうが電車より安いです。; The bus is cheaper than the train.
+セントラルパークのほうがタイムズスクエアより静かです。; Central Park is quieter than Times Square.
+月曜日のほうが日曜日より忙しいです。; Monday is busier than Sunday.
+冬のほうが夏より寒いです。; Winter is colder than summer.
+このレストランのほうがあのレストランよりおいしいです。; This restaurant is more delicious than that restaurant.
+コーヒーのほうが紅茶より好きです。; I like coffee more than tea.
+英語のほうが日本語より難しいです。; English is more difficult than Japanese.
+地下鉄のほうがタクシーより速いです。; The subway is faster than a taxi.
+新しい本のほうが古い本より面白いです。; The new book is more interesting than the old book.
+マンハッタンのほうがブルックリンにぎやかです。; Manhattan is livelier than Brooklyn.
+美術館のほうが図書館より楽しいです。; The museum is more fun than the library.
+映画館のほうが家で映画を見るよりいいです。; The movie theater is better than watching movies at home.
+春のほうが秋が好きです。; I like spring more than fall.
+このカフェのコーヒーのほうがスターバックスよりいいです。; The coffee at this cafe is better than Starbucks.
+ラーメンのほうが寿司より食べたいです。; I want to eat ramen more than sushi.
+土曜日のほうが金曜日より暇です。; Saturday is more free than Friday.
+このホテルのほうがそのホテルよりきれいです。; This hotel is cleaner than that hotel.
+音楽を聞くほうがテレビを見るより好きです。; I like listening to music more than watching TV.
+パソコンのほうがタブレット使いやすいです。; The computer is easier to use than the tablet.
+ニューヨークの冬のほうが東京の冬より寒いです。; Winters in New York are colder than winters in Tokyo.
+小説のほうが漫画より読みたいです。; I want to read novels more than comics.
+ジョギングのほうが水泳より簡単です。; Jogging is easier than swimming.
+あの店のピザのほうがこの店のピザより大きいです。; The pizza at that store is bigger than the pizza at this store.
+猫のほうが犬より好きです。; I like cats more than dogs.
+朝のほうが夜のほうが好きです。; I like morning more than night.
+高橋先生のほうが佐藤先生より親切です。; Teacher Takahashi is kinder than Teacher Sato.
+電子辞書のほうが紙の辞書より便利です。; An electronic dictionary is more convenient than a paper dictionary.
+メールのほうが手紙より速いです。; Email is faster than letters.
+海のほうが山よりきれいです。; The ocean is more beautiful than the mountains。
+日本料理のほうがアメリカ料理より好きです。; I like Japanese food more than American food。
+バッグのほうが財布より高いです。; The bag is more expensive than the wallet。
+一人で行くほうが友達と行くより楽です。; Going alone is easier than going with friends。
+このゲームのほうがそのゲームよりおもしろいです。; This game is more interesting than that game。
+リビングのほうが寝室広いです。; The living room is wider than the bedroom。
+自転車のほうが車がほしいです。; I want a bicycle more than a car。
+ニューヨークの地下鉄のほうがバス複雑です。; The New York subway is more complex than the bus。
+暑い天気のほうが寒い天気より好きです。; I like hot weather more than cold weather。
+勉強するほうが遊ぶより大切です。; Studying is more important than playing。
+大きい町のほうが小さい町よりいいです。; A big town is better than a small town。
+肉のほうが魚よりよく食べます。; I eat meat more than fish。
+図書館のほうがカフェで勉強するより静かです。; The library is quieter than studying at a cafe。
+母のほうが父より料理が上手です。; My mother is better at cooking than my father。
+フランス語のほうがスペイン語簡単です。; French is easier than Spanish。
+昼ごはんのほうが朝ごはんたくさん食べます。; I eat more lunch than breakfast。
+黄色のほうが青よりきれいです。; Yellow is more beautiful than blue。
+セントラルパークで散歩するほうがジョギングより好きです。; I like walking in Central Park more than jogging。
+ミュージカルのほうがコンサートより見たいです。; I want to see a musical more than a concert。
+夏休みのほうが春休み長いです。; Summer vacation is longer than spring break。
+新しい友達のほうが古い友達より多いです。; I have more new friends than old friends。
+自転車のほうがバスが速いです。; A bicycle is faster than the bus。
+週末のほうが平日楽しいです。; The weekend is more fun than weekdays。

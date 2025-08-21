@@ -1,0 +1,50 @@
+図書館で雑誌を読みます。; I read magazines at the library.
+学校に行きます。; I go to school.
+セントラルパークで友達と会います。; I meet my friend in Central Park.
+毎朝、コーヒーを飲みます。; I drink coffee every morning.
+駅で新聞を買います。; I buy a newspaper at the station.
+日曜日に美術館に行きます。; I go to the museum on Sunday.
+タイムズスクエアで写真を撮ります。; I take pictures in Times Square.
+晩ご飯をレストランで食べます。; I eat dinner at a restaurant.
+家族に手紙を書きます。; I write a letter to my family.
+大学で英語を勉強します。; I study English at university.
+喫茶店で紅茶を飲みます。; I drink tea at the café.
+月曜日から金曜日まで働きます。; I work from Monday to Friday.
+週末、映画を見ます。; I watch movies on the weekend.
+スーパーで果物を買います。; I buy fruit at the supermarket.
+バスでアパートに帰ります。; I return to my apartment by bus.
+夜、音楽を聞きます。; I listen to music at night.
+友達と公園で散歩します。; I take a walk with my friend in the park.
+土曜日に買い物をします。; I go shopping on Saturday.
+カフェでケーキを食べます。; I eat cake at the cafe.
+図書館で本を借ります。; I borrow books from the library.
+授業で日本語を勉強します。; I study Japanese in class.
+会社でパソコンを使います。; I use a computer at the company.
+毎日、日本語を勉強します。; I study Japanese every day.
+地下鉄でマンハッタンに行きます。; I go to Manhattan by subway.
+朝、ラジオを聞きます。; I listen to the radio in the morning.
+夜、テレビを見ます。; I watch TV at night.
+レストランでピザを食べます。; I eat pizza at a restaurant.
+午後、宿題をします。; I do my homework in the afternoon。
+スターバックスでコーヒーを飲みます。; I drink coffee at Starbucks.
+銀行でお金を払います。; I pay money at the bank。
+友達にプレゼントをあげます。; I give a present to my friend。
+先生に質問をします。; I ask the teacher a question。
+家で晩ご飯を作ります。; I make dinner at home。
+エンパイアステートビルで働きます。; I work at the Empire State Building。
+朝、新聞を読みます。; I read the newspaper in the morning。
+コンサートで音楽を聞きます。; I listen to music at a concert。
+月曜日の朝、テストがあります。; I have a test on Monday morning。
+図書館で勉強します。; I study at the library。
+学校で昼ご飯を食べます。; I eat lunch at school。
+友達と電話をします。; I talk on the phone with a friend。
+ロックフェラーセンターでスケートをします。; I skate at Rockefeller Center。
+土曜日の夜、パーティーに行きます。; I go to a party on Saturday night。
+カフェで勉強します。; I study at a cafe。
+毎晩、日記を書きます。; I write in my diary every night。
+午前中、掃除をします。; I clean in the morning。
+電車でブルックリンに行きます。; I go to Brooklyn by train。
+会社で昼ご飯を食べます。; I eat lunch at the company。
+セントラルパークでジョギングをします。; I go jogging in Central Park。
+デパートで靴を買います。; I buy shoes at the department store。
+夜、家族にメールを書きます。; I write an email to my family at night。

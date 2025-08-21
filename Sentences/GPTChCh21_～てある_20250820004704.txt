@@ -1,0 +1,50 @@
+窓が開けてあります。; The window has been opened.
+ドアが閉めてあります。; The door has been closed。
+電気が消してあります。; The lights have been turned off。
+カーテンが閉めてあります。; The curtains have been closed。
+テーブルが拭いてあります。; The table has been wiped。
+花が飾ってあります。; Flowers have been decorated。
+椅子が並べてあります。; Chairs have been lined up。
+本がしまってあります。; The books have been put away。
+パソコンが置いてあります。; A computer has been placed。
+地図が貼ってあります。; A map has been posted。
+メモが書いてあります。; A note has been written。
+料理が作ってあります。; The food has been cooked。
+コーヒーが入れてあります。; Coffee has been made (poured)。
+プレゼントが包んであります。; The present has been wrapped。
+ベッドが用意してあります。; The bed has been prepared。
+冷蔵庫に飲み物が冷やしてあります。; Drinks have been chilled in the refrigerator。
+切符が買ってあります。; The tickets have been bought。
+資料がコピーしてあります。; The materials have been photocopied。
+道が教えてあります。; The directions have been explained。
+時間が決めてあります。; The time has been decided。
+予約がしてあります。; A reservation has been made。
+スケジュールが書いてあります。; The schedule has been written。
+エアコンがつけてあります。; The air conditioner has been turned on。
+鍵がかけてあります。; The lock has been locked。
+お金が払ってあります。; The money has been paid。
+洗濯がしてあります。; The laundry has been done。
+掃除がしてあります。; The cleaning has been done。
+シャンプーが買ってあります。; Shampoo has been bought。
+パスポートがしまってあります。; The passport has been put away。
+ニューヨークのガイドブックが置いてあります。; A New York guidebook has been placed。
+自由の女神の写真が飾ってあります。; A picture of the Statue of Liberty has been decorated。
+セントラルパークの地図が広げてあります。; A map of Central Park has been spread out。
+タイムズスクエアのチケットが取ってあります。; Tickets for Times Square have been reserved。
+ブロードウェイの予約がしてあります。; A reservation for Broadway has been made。
+空港への道が調べてあります。; The route to the airport has been checked。
+ホテルに荷物が送ってあります。; The luggage has been sent to the hotel。
+ミュージアムの時間が確認してあります。; The museum hours have been confirmed。
+友達にメールで知らせてあります。; My friend has been notified by email。
+ミートパック地区のレストランのリストが作ってあります。; A list of restaurants in the Meatpacking District has been made。
+ブルックリンブリッジを渡る計画が立ててあります。; A plan to cross the Brooklyn Bridge has been made。
+地下鉄のカードにチャージしてあります。; The subway card has been charged。
+高層ビルの展望台のチケットが買ってあります。; Tickets for the skyscraper observatory have been bought。
+コンサートの日程がカレンダーに書いてあります。; The concert date has been written on the calendar。
+エンパイアステートビルのパンフレットがしまってあります。; The Empire State Building pamphlet has been put away。
+セントラルパークで食べるサンドイッチが用意してあります。; Sandwiches to eat in Central Park have been prepared。
+五番街で会う場所が決めてあります。; The meeting place on Fifth Avenue has been decided。
+グラウンドゼロの慰霊碑への行き方が調べてあります。; How to get to the 9/11 Memorial has been checked。
+ロックフェラーセンターのスケートリンクの情報が集めてあります。; Information about the Rockefeller Center ice rink has been gathered。
+ヘルズキッチンのレストランが予約してあります。; A restaurant in Hell's Kitchen has been reserved。
+ホテルの部屋にニューヨークの雑誌が置いてあります。; New York magazines have been placed in the hotel room。

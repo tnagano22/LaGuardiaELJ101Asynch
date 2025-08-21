@@ -1,0 +1,54 @@
+これは私のです; This is mine.
+それは田中さんのではありません; That is not Tanaka-san's.
+あれは先生のです; That over there is the teacher's.
+このかばんは私のです; This bag is mine.
+その本は友達のです; That book is my friend's.
+あの自転車はジョンのです; That bicycle over there is John's.
+新しいのは高いです; The new one is expensive.
+古いのは安いです; The old one is cheap.
+大きいのは私のです; The big one is mine.
+小さいのは妹のです; The small one is my younger sister's.
+赤いのは私の車です; The red one is my car.
+青いのはニューヨークのです; The blue one is New York's.
+面白いのはこの本です; The interesting one is this book.
+難しいのはあのテストです; The difficult one is that test.
+易しいのは宿題です; The easy one is the homework.
+高いのはセントラルパークのアパートです; The expensive one is the apartment in Central Park.
+安いのはブルックリンのアパートです; The cheap one is the apartment in Brooklyn.
+きれいなのはこの公園です; The beautiful one is this park.
+静かなのはあの図書館です; The quiet one is that library.
+有名なのは自由の女神です; The famous one is the Statue of Liberty.
+にぎやかなのはタイムズスクエアです; The lively one is Times Square.
+素敵なのはブロードウェイのミュージカルです; The wonderful one is the Broadway musical.
+便利なのは地下鉄です; The convenient one is the subway.
+不便なのはバスです; The inconvenient one is the bus.
+楽しいのはメッツのゲームです; The fun one is the Mets game.
+つまらないのはその映画です; The boring one is that movie.
+寒いのは一月です; The cold one is January.
+暑いのは七月です; The hot one is July.
+暖かいのは五月です; The warm one is May.
+涼しいのは九月です; The cool one is September.
+いいのはこのレストランです; The good one is this restaurant.
+悪いのはあのホテルです; The bad one is that hotel.
+悪いのは天気です; The bad one is the weather.
+元気なのは私の友達です; The energetic one is my friend.
+親切なのはあの店員です; The kind one is that store clerk.
+ハンサムなのは彼です; The handsome one is him.
+きれいなのは彼女です; The pretty one is her.
+大きいのはエンパイアステートビルです; The big one is the Empire State Building.
+小さいのは私のアパートです; The small one is my apartment.
+白いのはワシントンスクエアのアーチです; The white one is the Washington Square Arch.
+黒いのはタクシーです; The black one is a taxi.
+忙しいのは月曜日です; The busy one is Monday.
+暇なのは日曜日です; The free one is Sunday.
+特別なのはクリスマスです; The special one is Christmas.
+大切なのは家族の時間です; The important one is family time.
+嫌いなのは冬です; The one I dislike is winter.
+好きなのは秋です; The one I like is autumn.
+上手なのはサッカーです; The one I'm good at is soccer.
+下手なのは野球です; The one I'm bad at is baseball.
+欲しいのは新しいカメラです; The one I want is a new camera.
+必要なのは休みです; The one I need is a break.
+一番好きなのはセントラルパークです; My favorite one is Central Park.
+一番きれいなのは夜の景色です; The most beautiful one is the night view.
+一番有名なのはニューヨークです; The most famous one is New York.

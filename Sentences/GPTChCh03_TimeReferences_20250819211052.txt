@@ -1,0 +1,52 @@
+何時に起きますか。; What time do you wake up?
+七時に起きます。; I wake up at seven o'clock.
+八時に朝ご飯を食べます。; I eat breakfast at eight o'clock.
+九時に大学へ行きます。; I go to university at nine o'clock.
+十時に日本語の勉強をします。; I study Japanese at ten o'clock。
+十一時に友達と会います。; I meet my friend at eleven o'clock。
+十二時に昼ご飯を食べます。; I eat lunch at twelve o'clock。
+一時に図書館で勉強します。; I study at the library at one o'clock。
+二時に経済学のクラスがあります。; I have an economics class at two o'clock。
+三時にコーヒーを飲みます。; I drink coffee at three o'clock。
+四時にニューヨークの友達に電話をします。; I call my friend in New York at four o'clock。
+五時に家へ帰ります。; I go home at five o'clock。
+六時にテレビを見ます。; I watch TV at six o'clock。
+七時に晩ご飯を作ります。; I make dinner at seven o'clock。
+八時に家族と晩ご飯を食べます。; I eat dinner with my family at eight o'clock。
+九時にシャワーを浴びます。; I take a shower at nine o'clock。
+十時に本を読みます。; I read a book at ten o'clock。
+十一時に寝ます。; I go to bed at eleven o'clock。
+土曜日の十時に起きます。; I wake up at ten o'clock on Saturday。
+日曜日の十一時にブランチを食べます。; I eat brunch at eleven o'clock on Sunday。
+月曜日の九時半に会議があります。; I have a meeting at nine-thirty on Monday。
+火曜日の一時半に昼ご飯を食べます。; I eat lunch at one-thirty on Tuesday。
+水曜日の三時に医者へ行きます。; I go to the doctor at three o'clock on Wednesday。
+木曜日の五時半に買い物をします。; I go shopping at five-thirty on Thursday。
+金曜日の七時にレストランで食事をします。; I eat at a restaurant at seven o'clock on Friday。
+今、何時ですか。; What time is it now?
+今、九時五分です。; It's nine-oh-five now。
+今、十時十分です。; It's ten-ten now。
+今、十一時十五分です。; It's eleven-fifteen now。
+今、十二時二十分です。; It's twelve-twenty now。
+今、一時二十五分です。; It's one twenty-five now。
+今、二時半です。; It's two-thirty now。
+毎日、七時十五分に起きます。; I wake up at seven-fifteen every day。
+毎朝、八時五分に新聞を読みます。; I read the newspaper at eight-oh-five every morning。
+毎晩、十一時四十分に寝ます。; I go to bed at eleven-forty every night。
+週末の九時にセントラルパークを散歩します。; I walk in Central Park at nine o'clock on the weekend。
+土曜日の二時にブロードウェイのミュージカルを見ます。; I see a Broadway musical at two o'clock on Saturday。
+日曜日の午後四時にマンハッタンへ行きます。; I go to Manhattan at four o'clock on Sunday afternoon。
+月曜日の午前七時にジョギングをします。; I go jogging at seven o'clock on Monday morning。
+火曜日の午後八時にニュースを見ます。; I watch the news at eight o'clock on Tuesday evening。
+水曜日の正午に友達と昼ご飯を食べます。; I eat lunch with my friend at noon on Wednesday。
+木曜日の午後三時半にコーヒーを飲みます。; I drink coffee at three-thirty on Thursday afternoon。
+金曜日の夜七時にコンサートがあります。; There is a concert at seven o'clock on Friday night。
+毎年、十二月三十一日の夜十一時五十九分にタイムズスクエアに行きます。; I go to Times Square at 11:59 PM on December 31st every year。
+朝の六時四十五分に電車に乗ります。; I take the train at six forty-five in the morning。
+夜の九時五十分に歯を磨きます。; I brush my teeth at nine-fifty at night。
+午前十時二十分にテストがあります。; I have a test at ten-twenty in the morning。
+午後六時十五分に映画が始まります。; The movie starts at six-fifteen in the evening。
+午後九時五十五分に家に着きます。; I arrive home at nine fifty-five in the evening。
+午前一時です。お腹が空きました。; It's one AM. I'm hungry.
+午後三時です。ちょっと疲れました。; It's three PM. I'm a little tired.
+夜十時半です。もう寝ます。; It's ten-thirty at night. I'm going to bed now.

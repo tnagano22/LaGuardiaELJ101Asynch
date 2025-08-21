@@ -1,0 +1,50 @@
+京都に写真を撮りに行きます。; I will go to Kyoto to take pictures.
+セントラルパークを走りに行きます。; I will go to run in Central Park.
+図書館で本を借りに行きます。; I will go to borrow books at the library.
+スーパーに食べ物を買いに行きます。; I will go to the supermarket to buy food.
+友達に会いにニューヨークに行きます。; I will go to New York to meet my friend.
+映画館に新しい映画を見に行きます。; I will go to the movie theater to see a new movie.
+カフェでコーヒーを飲みに行きます。; I will go to a cafe to drink coffee。
+美術館に絵を見に行きます。; I will go to the art museum to see paintings。
+レストランに晩ご飯を食べに行きます。; I will go to a restaurant to eat dinner。
+駅で切符を買いに行きます。; I will go to the station to buy a ticket。
+大学に勉強しに行きます。; I will go to the university to study。
+プールに泳ぎに行きます。; I will go to the pool to swim。
+コンサートに音楽を聞きに行きます。; I will go to a concert to listen to music。
+デパートに服を買いに行きます。; I will go to the department store to buy clothes。
+公園で友達と遊びに行きます。; I will go to play with my friend in the park。
+郵便局に手紙を出しに行きます。; I will go to the post office to send a letter。
+ブロードウェイにミュージカルを見に行きます。; I will go to Broadway to see a musical。
+喫茶店にケーキを食べに行きます。; I will go to a coffee shop to eat cake。
+高いビルにエンパイアステートビルディングを見に行きます。; I will go to see the tall Empire State Building。
+本屋に雑誌を買いに行きます。; I will go to the bookstore to buy a magazine。
+がくせいカフェに日本語を勉強しに行きます。; I will go to the student cafe to study Japanese。
+ゲームセンターにゲームをしに行きます。; I will go to the arcade to play games。
+銀行にお金をおろしに行きます。; I will go to the bank to withdraw money。
+ニューヨークにセントラルパークでピクニックをしに行きます。; I will go to have a picnic in Central Park in New York。
+レンタルショップにDVDを借りに行きます。; I will go to the rental shop to borrow a DVD。
+モールに買い物に行きます。; I will go to the mall to shop。
+海に魚を見に行きます。; I will go to the ocean to see fish。
+歯医者に歯を見せに行きます。; I will go to the dentist to show my teeth。
+スタジアムに野球の試合を見に行きます。; I will go to the stadium to see a baseball game。
+カラオケに歌を歌いに行きます。; I will go to karaoke to sing songs。
+東京に旅行に行きます。; I will go to Tokyo to travel。
+病院にお見舞いに行きます。; I will go to the hospital to visit a patient。
+動物園にパンダを見に行きます。; I will go to the zoo to see pandas。
+先生に質問をしに行きます。; I will go to ask the teacher a question。
+図書館に静かに勉強しに行きます。; I will go to the library to study quietly。
+喫茶店に友達と話しに行きます。; I will go to a coffee shop to talk with my friend。
+ニューヨークのMoMAに現代アートを見に行きます。; I will go to MoMA in New York to see modern art。
+プールに泳ぎを練習しに行きます。; I will go to the pool to practice swimming。
+スケート場にスケートをしに行きます。; I will go to the skating rink to skate。
+ジムに運動しに行きます。; I will go to the gym to exercise。
+公園に散歩に行きます。; I will go to the park for a walk。
+レストランに誕生日パーティーをしに行きます。; I will go to a restaurant to have a birthday party。
+学校にテストを受けに行きます。; I will go to school to take a test。
+映画館にポップコーンを食べに行きます。; I will go to the movie theater to eat popcorn。
+ニューヨークにタイムズスクエアを見物しに行きます。; I will go to New York to sightsee in Times Square。
+図書館に新聞を読みに行きます。; I will go to the library to read newspapers。
+カフェに宿題をしに行きます。; I will go to a cafe to do homework。
+友達の家にビデオゲームをしに行きます。; I will go to my friend's house to play video games。
+デパートにデザートを買いに行きます。; I will go to the department store to buy dessert。
+川にボートに乗りに行きます。; I will go to the river to ride a boat。

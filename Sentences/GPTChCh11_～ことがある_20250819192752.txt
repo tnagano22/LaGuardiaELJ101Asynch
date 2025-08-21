@@ -1,0 +1,50 @@
+セントラルパークでコンサートを聞いたことがあります。; I have heard a concert in Central Park.
+自由の女神を見たことがありますか。; Have you ever seen the Statue of Liberty?
+高いレストランで食事をしたことがあります。; I have eaten at an expensive restaurant.
+ニューヨークの地下鉄に乗ったことがあります。; I have ridden the New York subway.
+タイムズスクエアで買い物をしたことがありません。; I have never shopped in Times Square.
+ブロードウェイのミュージカルを見たことがあります。; I have seen a Broadway musical.
+冬にニューヨークへ行ったことがあります。; I have been to New York in the winter.
+エンパイアステートビルに行ったことがありますか。; Have you ever been to the Empire State Building?
+有名な美術館へ行ったことがありません。; I have never been to a famous museum.
+学校で日本語を勉強したことがあります。; I have studied Japanese at school.
+コーヒーを飲んだことがあります。; I have drunk coffee.
+日本の映画を見たことがあります。; I have seen a Japanese movie.
+図書館で本を借りたことがあります。; I have borrowed a book from the library.
+自転車に乗ったことがあります。; I have ridden a bicycle.
+手紙を書いたことがあります。; I have written a letter.
+電車で旅行したことがあります。; I have traveled by train.
+ニューヨークのパレードを見たことがあります。; I have seen a parade in New York.
+晩ご飯を作ったことがあります。; I have cooked dinner.
+大学で経済学を勉強したことがあります。; I have studied economics in university.
+友達とけんかをしたことがあります。; I have fought with a friend.
+セントラルパークを散歩したことがあります。; I have walked in Central Park.
+大きなケーキを食べたことがあります。; I have eaten a big cake.
+朝早く起きたことがあります。; I have woken up early in the morning.
+ニューヨークに住んだことがあります。; I have lived in New York.
+車を運転したことがあります。; I have driven a car.
+日本の歌を歌ったことがあります。; I have sung a Japanese song.
+テストで百点を取ったことがあります。; I have gotten a perfect score on a test.
+海で泳いだことがあります。; I have swum in the ocean.
+雪を見たことがありません。; I have never seen snow.
+飛行機に乗ったことがあります。; I have been on an airplane.
+ホットドッグを食べたことがあります。; I have eaten a hot dog.
+メトロポリタン美術館へ行ったことがあります。; I have been to the Metropolitan Museum of Art.
+日本語で手紙を書いたことがあります。; I have written a letter in Japanese.
+ニューヨークのクリスマスを見たことがあります。; I have seen Christmas in New York.
+コンサートに行ったことがあります。; I have been to a concert.
+忙しいレストランで働いたことがあります。; I have worked in a busy restaurant.
+セントラルパークでボートに乗ったことがあります。; I have ridden a boat in Central Park.
+高いビルの上に登ったことがあります。; I have gone to the top of a tall building.
+タクシーを使ったことがあります。; I have used a taxi.
+ニューヨークのピザを食べたことがあります。; I have eaten New York pizza.
+日本語の新聞を読んだことがありません。; I have never read a Japanese newspaper.
+学校でピアノを弾いたことがあります。; I have played the piano at school.
+ロックフェラーセンターへ行ったことがあります。; I have been to Rockefeller Center.
+日本のアニメを見たことがあります。; I have watched Japanese anime.
+バスで学校へ行ったことがあります。; I have gone to school by bus.
+ニューヨークの夏は暑いことがあります。; New York summers are sometimes hot.
+冬にセントラルパークでスケートをしたことがあります。; I have skated in Central Park in the winter.
+友達にプレゼントをあげたことがあります。; I have given a present to a friend.
+ニューヨークで友達に会ったことがあります。; I have met a friend in New York.
+時々、授業に遅れることがあります。; I am sometimes late for class.

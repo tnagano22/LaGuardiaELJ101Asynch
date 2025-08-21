@@ -1,0 +1,51 @@
+図書館はどこですか。; Where is the library?
+スーパーはどこにありますか。; Where is the supermarket?
+トイレはあそこです。; The restroom is over there.
+エレベーターはどこですか。; Where is the elevator?
+受付はここです。; The reception desk is here.
+ニューヨークの駅はどこですか。; Where is the New York station?
+カフェはビルのなかにあります。; The cafe is inside the building.
+銀行の隣に何がありますか。; What is next to the bank?
+郵便局の前は広場です。; There is a plaza in front of the post office.
+私のアパートは公園の近くです。; My apartment is near the park.
+コンビニは右にあります。; The convenience store is on the right.
+喫茶店は左です。; The coffee shop is on the left.
+セントラルパークは大きいです。; Central Park is big.
+美術館はあのビルのうしろです。; The art museum is behind that building.
+スターバックスはどこにありますか。; Where is the Starbucks?
+学校はデパートのとなりです。; The school is next to the department store.
+映画館は三階にあります。; The movie theater is on the third floor.
+エンパイアステートビルはたかいです。; The Empire State Building is tall.
+ここはタイムズスクエアですか。; Is this Times Square?
+あの白い建物は何ですか。; What is that white building?
+駅までの道はまっすぐです。; The way to the station is straight.
+レストランはホテルのなかです。; The restaurant is inside the hotel.
+スーツケースは車のうしろです。; The suitcase is behind the car.
+カバンは椅子の上です。; The bag is on the chair.
+本は机の下にあります。; The book is under the desk.
+ニューヨークの大学はどこですか。; Where is the university in New York?
+あの人の後ろにだれがいますか。; Who is behind that person?
+テーブルの下に猫がいます。; There is a cat under the table.
+庭に犬がいます。; There is a dog in the garden.
+電話はベッドの横です。; The phone is next to the bed.
+冷蔵庫の隣に何がありますか。; What is next to the refrigerator?
+窓の外に木があります。; There is a tree outside the window.
+コンピューターは部屋にあります。; The computer is in the room.
+自転車は家の外です。; The bicycle is outside the house.
+男の子はプールのそばにいます。; The boy is near the pool.
+女の子は図書館の中にいます。; The girl is inside the library.
+先生は教室にいます。; The teacher is in the classroom.
+学生は学校にいます。; The students are at school.
+友達は公園にいます。; My friend is at the park.
+父はニューヨークにいます。; My father is in New York.
+母は会社にいます。; My mother is at the company.
+私はアパートにいます。; I am at the apartment.
+あなたはどこにいますか。; Where are you?
+ここはブロードウェイですか。; Is this Broadway?
+そこは自由の女神ですか。; Is that the Statue of Liberty?
+あそこは空港ですか。; Is that the airport?
+地下鉄の駅はどこですか。; Where is the subway station?
+バス停はあの角です。; The bus stop is at that corner.
+タクシー乗り場はどこですか。; Where is the taxi stand?
+五番街はにぎやかです。; Fifth Avenue is bustling.
+この道は静かです。; This street is quiet.
