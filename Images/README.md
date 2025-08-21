@@ -9,8 +9,8 @@
 
 ## Thumbnails
 
-[![Download](thumbnails/ChatGPTCh00Vocabulary_collage-0_resized.jpg)](zipfiles/ChatGPTCh00Vocabulary.zip)
-[![Download](thumbnails/ChatGPTCh00Vocabulary_collage-1_resized.jpg)](zipfiles/ChatGPTCh00Vocabulary.zip)
+[![Download](thumbnails/ChatGPTCh00Vocabulary_collage-0_resized.jpg)](zipfiles/ChatGPTCh00Vocabulary)
+[![Download](thumbnails/ChatGPTCh00Vocabulary_collage-1_resized.jpg)](zipfiles/ChatGPTCh00Vocabulary)
 [![Download](thumbnails/ChatGPTCh00あいさつ_collage-0_resized.jpg)](zipfiles/ChatGPTCh00あいさつ.zip)
 [![Download](thumbnails/ChatGPTCh00あいさつ_collage-1_resized.jpg)](zipfiles/ChatGPTCh00あいさつ.zip)
 [![Download](thumbnails/ChatGPTCh00あいさつ_collage-2_resized.jpg)](zipfiles/ChatGPTCh00あいさつ.zip)
