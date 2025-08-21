@@ -1,0 +1,54 @@
+薬を飲めば、元気になります。; If you take medicine, you will feel better.
+地下鉄に乗れば、タイムズスクエアに行けます。; If you take the subway, you can go to Times Square.
+勉強をすれば、テストに合格します。; If you study, you will pass the test.
+早く寝れば、朝早く起きられます。; If you go to bed early, you can wake up early.
+たくさん練習すれば、日本語が上手になります。; If you practice a lot, your Japanese will improve.
+エンパイアステートビルに行けば、ニューヨークの景色が見えます。; If you go to the Empire State Building, you can see the view of New York.
+お金を払えば、ミュージカルのチケットが買えます。; If you pay money, you can buy a ticket to the musical.
+春になれば、セントラルパークで花見ができます。; If it becomes spring, you can see cherry blossoms in Central Park.
+メトロポリタン美術館へ行けば、すばらしい絵を見られます。; If you go to the Metropolitan Museum of Art, you can see wonderful paintings.
+安ければ、そのバッグを買います。; If it is cheap, I will buy that bag.
+天気が良ければ、ブルックリン橋を歩きます。; If the weather is good, I will walk across the Brooklyn Bridge.
+時間があれば、モノポリーをします。; If I have time, I will play Monopoly.
+友達が来れば、ニューヨークを案内します。; If my friend comes, I will show them around New York.
+安いホテルを見つければ、ニューヨークに長くいます。; If I find a cheap hotel, I will stay in New York longer.
+音楽が好きならば、カーネギーホールへ行ってください。; If you like music, please go to Carnegie Hall.
+静かならば、図書館で勉強できます。; If it is quiet, I can study in the library.
+暇ならば、テレビを見ます。; If I am free, I will watch TV.
+暖かければ、セントラルパークでピクニックをします。; If it is warm, I will have a picnic in Central Park.
+おいしければ、そのレストランでもう一度食べます。; If it is delicious, I will eat at that restaurant again.
+安売りをすれば、たくさん買い物をします。; If there is a sale, I will do a lot of shopping。
+ニューヨークに住めば、たくさんミュージカルを見られます。; If you live in New York, you can see many musicals。
+美術館に行けば、有名な絵を見られます。; If you go to an art museum, you can see famous paintings。
+高く登れば、遠くまで見えます。; If you climb high, you can see far。
+本を読めば、物知りになります。; If you read books, you will become knowledgeable。
+映画を見れば、その俳優について知れます。; If you watch the movie, you can learn about that actor。
+電車が速ければ、マンハッタンに早く着きます。; If the train is fast, I will arrive in Manhattan early。
+ホテルが便利ならば、観光しやすいです。; If the hotel is convenient, it is easy to do sightseeing。
+ニューヨークの冬が寒ければ、コートを着ます。; If New York's winter is cold, I will wear a coat。
+チケットが高ければ、コンサートに行きません。; If the tickets are expensive, I will not go to the concert。
+料理が簡単ならば、私も作ります。; If the cooking is easy, I will also make it。
+スポーツが好きならば、ヤンキースタジアムへ行きましょう。; If you like sports, let's go to Yankee Stadium。
+道が混んでいれば、バスは遅れます。; If the road is crowded, the bus will be late。
+アッパーウエストサイドに行けば、良いレストランがあります。; If you go to the Upper West Side, there are good restaurants。
+音楽を聞けば、リラックスできます。; If you listen to music, you can relax。
+たくさん歩けば、健康になります。; If you walk a lot, you will become healthy。
+友達に会えば、最近のニュースを話します。; If I meet my friend, I will talk about recent news。
+メールを送れば、すぐに返事が来ます。; If I send an email, a reply will come quickly。
+ボランティアをすれば、良い経験になります。; If you do volunteer work, it will be a good experience。
+自由の女神を見れば、ニューヨークに来たことを感じます。; If you see the Statue of Liberty, you will feel that you have come to New York。
+ロックフェラーセンターへ行けば、スケートができます。; If you go to Rockefeller Center, you can ice skate。
+映画館に行けば、新しい映画が見られます。; If you go to a movie theater, you can see new movies。
+図書館で本を借りれば、お金がかかりません。; If you borrow books from the library, it doesn't cost money。
+天気予報を見れば、明日の天気がわかります。; If you watch the weather forecast, you will know tomorrow's weather。
+電話番号を知っていれば、レストランに予約できます。; If you know the phone number, you can make a reservation at the restaurant。
+パスポートがあれば、外国へ旅行できます。; If you have a passport, you can travel to foreign countries。
+安いチケットを買えば、ブロードウェイのショーを見られます。; If you buy cheap tickets, you can see a Broadway show。
+電車が遅れれば、約束の時間に遅刻します。; If the train is delayed, I will be late for the appointment time。
+たくさん泳げば、強い体になります。; If you swim a lot, you will get a strong body。
+グッゲンハイム美術館へ行けば、現代アートが見られます。; If you go to the Guggenheim Museum, you can see modern art。
+毎日練習すれば、ピアノが上手になります。; If you practice every day, you will become good at piano。
+説明書を読めば、機械の使い方がわかります。; If you read the manual, you will understand how to use the machine。
+カメラを持って行けば、セントラルパークの写真が撮れます。; If you take a camera, you can take pictures of Central Park。
+ハーレムに行けば、ジャズのクラブがあります。; If you go to Harlem, there are jazz clubs。
+ニューヨークに友達がいれば、楽しいです。; If you have friends in New York, it is fun。

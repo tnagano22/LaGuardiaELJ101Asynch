@@ -1,0 +1,51 @@
+メアリーさんはアメリカ人です; Mary is American.
+ジョンさんは学生です; John is a student.
+これは本です; This is a book.
+それは辞書です; That is a dictionary.
+あれは雑誌です; That (over there) is a magazine.
+私はマイクです; I am Mike.
+私は学生です; I am a student.
+あなたは先生です; You are a teacher.
+これは私のペンです; This is my pen.
+それはあなたのノートです; That is your notebook.
+あれはメアリーさんの傘です; That (over there) is Mary's umbrella.
+私は日本人です; I am Japanese.
+あなたはアメリカ人です; You are American.
+ジョンさんは医者です; John is a doctor.
+これは時計です; This is a watch.
+それは新聞です; That is a newspaper.
+あれはテレビです; That (over there) is a TV.
+私は会社員です; I am an office worker.
+あなたはエンジニアです; You are an engineer.
+これは私のカメラです; This is my camera.
+それはあなたの手帳です; That is your datebook.
+あれはジョンさんの車です; That (over there) is John's car.
+私は大学院生です; I am a graduate student.
+あなたは大学教授です; You are a college professor.
+これは鉛筆です; This is a pencil.
+それは机です; That is a desk.
+あれは椅子です; That (over there) is a chair.
+私は高校生です; I am a high school student.
+これは私の鍵です; This is my key.
+それはあなたの名刺です; That is your business card.
+あれはメアリーさんの自転車です; That (over there) is Mary's bicycle.
+私は留学生です; I am an international student.
+あなたは銀行員です; You are a bank employee.
+これは電話です; This is a telephone.
+それは窓です; That is a window.
+あれはドアです; That (over there) is a door.
+私は研究者です; I am a researcher.
+あなたは看護師です; You are a nurse.
+これは私の財布です; This is my wallet.
+それはあなたのカバンです; That is your bag.
+あれはジョンさんの家です; That (over there) is John's house.
+私は弁護士です; I am a lawyer.
+あなたは画家です; You are a painter.
+これは地図です; This is a map.
+それはノートパソコンです; That is a laptop.
+あれはかばんです; That (over there) is a briefcase.
+私はプログラマーです; I am a programmer.
+あなたは通訳です; You are an interpreter.
+これは私の靴です; These are my shoes.
+それはあなたの眼鏡です; Those are your glasses.
+あれはメアリーさんの時計です; That (over there) is Mary's watch.

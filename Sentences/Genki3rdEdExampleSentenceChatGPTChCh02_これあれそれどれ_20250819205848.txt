@@ -1,0 +1,54 @@
+これは ほんです。; This is a book.
+それは なんですか。; What is that?
+あれは としょかんですか。; Is that over there a library?
+これは じしょです。; This is a dictionary.
+それは わたしの かさです。; That is my umbrella.
+あれは だれの てがみですか。; Whose letter is that over there?
+これは サントスさんのです。; This is Mr. Santos's.
+それは えんぴつですか、ペンですか。; Is that a pencil or a pen?
+あれは コンピューターじゃありません。; That over there is not a computer.
+これは なんの ざっしですか。; What kind of magazine is this?
+それは しんぶんです。; That is a newspaper.
+あれは だれの かばんですか。; Whose bag is that over there?
+これは あなたの ノートですか。; Is this your notebook?
+それは ちちの とけいです。; That is my father's watch.
+あれは にほんの くるまです。; That over there is a Japanese car.
+これは なんですか。; What is this?
+それは えいごの ほんじゃありません。; That is not an English book.
+あれは がっこうです。; That over there is a school.
+これは わたしの です。; This is mine.
+それは せんせいの けしゴムです。; That is the teacher's eraser.
+あれは テレビですか。; Is that over there a TV?
+これは おとうとの めがねです。; These are my younger brother's glasses.
+それは やすい じしょです。; That is an inexpensive dictionary.
+あれは あの ひとのです。; That over there is that person's.
+これは いい ペンです。; This is a good pen.
+それは だれの かさですか。; Whose umbrella is that?
+あれは ちいさい うちです。; That over there is a small house.
+これは にほんごの しんぶんですか。; Is this a Japanese newspaper?
+それは わたしの じゃありません。; That is not mine.
+あれは おおきい としょかんです。; That over there is a big library.
+これは なんの ほんですか。; What kind of book is this?
+それは ともだちの てがみです。; That is my friend's letter.
+あれは びじゅつかんじゃありません。; That over there is not an art museum.
+これは あなたのですか。; Is this yours?
+それは あたらしい ざっしです。; That is a new magazine.
+あれは くるまです。; That over there is a car.
+これは いもうとの ノートです。; This is my younger sister's notebook.
+それは ふるい いえです。; That is an old house.
+あれは がくせいの かばんですか。; Is that over there a student's bag?
+これは なんの テストですか。; What kind of test is this?
+それは ちいさい つくえです。; That is a small desk.
+あれは ははの とけいです。; That over there is my mother's watch.
+これは あなたの えんぴつですか。; Is this your pencil?
+それは いい おてらです。; That is a good temple.
+あれは コンビニです。; That over there is a convenience store.
+これは せんせいの ほんですか。; Is this the teacher's book?
+それは あの がくせいのです。; That is that student's.
+あれは しごとですか。; Is that over there a job?
+これは にほんの えいがです。; This is a Japanese movie.
+それは おもしろい ほんですか。; Is that an interesting book?
+あれは ちかてつです。; That over there is a subway.
+これは だれの めがねですか。; Whose glasses are these?
+それは ともだちの くるまです。; That is my friend's car.
+あれは あの せんせいの じしょです。; That over there is that teacher's dictionary.

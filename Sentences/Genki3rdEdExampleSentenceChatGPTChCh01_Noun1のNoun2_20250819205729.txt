@@ -1,0 +1,50 @@
+にほんごの がくせいです。; I am a student of Japanese.
+にほんごの せんせいです。; I am a teacher of Japanese.
+がくせいの ともだちです。; (He/She) is a friend who is a student.
+せんせいの ともだちです。; (He/She) is a friend who is a teacher.
+アメリカの がくせいです。; (He/She) is a student from America.
+カナダの せんせいです。; (He/She) is a teacher from Canada.
+イギリスの がくせいです。; (He/She) is a student from the UK.
+にほんの せんせいです。; (He/She) is a teacher from Japan.
+だいがくの せんせいです。; (He/She) is a university teacher.
+がっこうの せんせいです。; (He/She) is a school teacher.
+わたしの せんせいです。; (He/She) is my teacher.
+わたしの ともだちです。; (He/She) is my friend.
+サントスさんの ともだちです。; (He/She) is Mr./Ms. Santos's friend.
+たなかさんの せんせいです。; (He/She) is Mr./Ms. Tanaka's teacher.
+ジョンソンさんの がくせいです。; (He/She) is Mr./Ms. Johnson's student.
+メアリーさんの ともだちです。; (He/She) is Mary's friend.
+ジムさんの せんせいです。; (He/She) is Jim's teacher.
+トムさんの がくせいです。; (He/She) is Tom's student.
+スーさんの ともだちです。; (He/She) is Sue's friend.
+ロバートさんの せんせいです。; (He/She) is Robert's teacher.
+マイケルさんの がくせいです。; (He/She) is Michael's student.
+あなたの せんせいです。; (He/She) is your teacher.
+あなたの ともだちです。; (He/She) is your friend.
+がくせいの メアリーさんです。; This is Mary, who is a student.
+せんせいの たなかさんです。; This is Mr./Ms. Tanaka, who is a teacher.
+アメリカの メアリーさんです。; This is Mary from America.
+カナダの ジムさんです。; This is Jim from Canada.
+イギリスの トムさんです。; This is Tom from the UK.
+にほんの サントスさんです。; This is Mr./Ms. Santos from Japan.
+だいがくの ジョンソンさんです。; This is Mr./Ms. Johnson from the university.
+がっこうの スーさんです。; This is Sue from the school.
+わたしの がくせいです。; (He/She) is my student.
+サントスさんの せんせいです。; (He/She) is Mr./Ms. Santos's teacher.
+たなかさんの がくせいです。; (He/She) is Mr./Ms. Tanaka's student.
+ジョンソンさんの ともだちです。; (He/She) is Mr./Ms. Johnson's friend.
+メアリーさんの がくせいです。; (He/She) is Mary's student.
+ジムさんの ともだちです。; (He/She) is Jim's friend.
+トムさんの せんせいです。; (He/She) is Tom's teacher.
+スーさんの がくせいです。; (He/She) is Sue's student.
+ロバートさんの ともだちです。; (He/She) is Robert's friend.
+マイケルさんの せんせいです。; (He/She) is Michael's teacher.
+がくせいの ロバートさんです。; This is Robert, who is a student.
+せんせいの マイケルさんです。; This is Michael, who is a teacher.
+アメリカの ジョンソンさんです。; This is Mr./Ms. Johnson from America.
+カナダの スーさんです。; This is Sue from Canada.
+イギリスの ロバートさんです。; This is Robert from the UK.
+にほんの マイケルさんです。; This is Michael from Japan.
+だいがくの トムさんです。; This is Tom from the university.
+がっこうの サントスさんです。; This is Mr./Ms. Santos from the school.
+あなたの がくせいです。; (He/She) is your student.

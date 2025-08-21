@@ -1,0 +1,51 @@
+写真を撮ってもいいですか。; May I take a photo?
+窓を開けてもいいですか。; May I open the window?
+ここに座ってもいいですか。; May I sit here?
+鉛筆で書いてもいいですか。; May I write with a pencil?
+トイレに行ってもいいですか。; May I go to the bathroom?
+電話を使ってもいいですか。; May I use the phone?
+音楽を聞いてもいいですか。; May I listen to music?
+名前を呼んでもいいですか。; May I call your name?
+答えを見てもいいですか。; May I look at the answer?
+宿題を後で出してもいいですか。; May I submit the homework later?
+図書館で話してもいいですか。; May I talk in the library?
+この本を借りてもいいですか。; May I borrow this book?
+ニューヨークの写真を見せてもいいですか。; May I show you photos of New York?
+マンハッタンに行ってもいいですか。; May I go to Manhattan?
+昼ご飯を食べてもいいですか。; May I eat lunch?
+水を飲んでもいいですか。; May I drink water?
+ドアを閉めてもいいですか。; May I close the door?
+電気を消してもいいですか。; May I turn off the light?
+テレビを見てもいいですか。; May I watch TV?
+ノートを借りてもいいですか。; May I borrow your notebook?
+辞書を使ってもいいですか。; May I use the dictionary?
+友達と来てもいいですか。; May I come with my friend?
+ここで待ってもいいですか。; May I wait here?
+シャーペンを使ってもいいですか。; May I use a mechanical pencil?
+テストの質問を聞いてもいいですか。; May I ask a question about the test?
+日本語で話してもいいですか。; May I speak in Japanese?
+英語で書いてもいいですか。; May I write in English?
+ちょっと休んでもいいですか。; May I take a short break?
+大きい声で読んでもいいですか。; May I read aloud?
+答えを教えてもいいですか。; May I tell you the answer?
+セントラルパークでサッカーをしてもいいですか。; May I play soccer in Central Park?
+明日、質問をしてもいいですか。; May I ask a question tomorrow?
+ペンで書いてもいいですか。; May I write with a pen?
+あした、電話をしてもいいですか。; May I call you tomorrow?
+メールを送ってもいいですか。; May I send an email?
+ケーキを食べてもいいですか。; May I eat the cake?
+コーヒーを買ってもいいですか。; May I buy coffee?
+レポートを早く出してもいいですか。; May I submit the report early?
+エンパイアステートビルに行ってもいいですか。; May I go to the Empire State Building?
+駅で会ってもいいですか。; May I meet you at the station?
+このカードを使ってもいいですか。; May I use this card?
+ボールペンでサインしてもいいですか。; May I sign with a ballpoint pen?
+ニューヨークの話をしてもいいですか。; May I talk about New York?
+問題をしなくてもいいですか。; Is it okay if I don't do the problem?
+今日、勉強しなくてもいいですか。; Is it okay if I don't study today?
+本を返さなくてもいいですか。; Is it okay if I don't return the book?
+手紙を読まなくてもいいですか。; Is it okay if I don't read the letter?
+日本語で話さなくてもいいですか。; Is it okay if I don't speak in Japanese?
+あした来なくてもいいですか。; Is it okay if I don't come tomorrow?
+ニューヨークに行かなくてもいいですか。; Is it okay if I don't go to New York?
+メールを書かなくてもいいですか。; Is it okay if I don't write the email?

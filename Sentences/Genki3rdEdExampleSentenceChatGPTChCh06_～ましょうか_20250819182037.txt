@@ -1,0 +1,50 @@
+電気を消しましょうか; Shall I turn off the lights?
+窓を閉めましょうか; Shall I close the window?
+ドアを開けましょうか; Shall I open the door?
+コーヒーを入れましょうか; Shall I make some coffee?
+音楽を聴きましょうか; Shall we listen to music?
+写真を撮りましょうか; Shall I take a picture?
+地図を見ましょうか; Shall we look at the map?
+ニューヨークの本を読みましょうか; Shall we read a book about New York?
+テーブルを拭きましょうか; Shall I wipe the table?
+ごみを捨てましょうか; Shall I throw away the trash?
+宿題を手伝いましょうか; Shall I help you with your homework?
+漢字を練習しましょうか; Shall we practice kanji?
+駅まで歩きましょうか; Shall we walk to the station?
+バスで行きましょうか; Shall we go by bus?
+中央公園で散歩しましょうか; Shall we take a walk in Central Park?
+昼ごはんを食べましょうか; Shall we eat lunch?
+晩ごはんを作りましょうか; Shall I make dinner?
+レストランを探しましょうか; Shall we look for a restaurant?
+メトロポリタン美術館へ行きましょうか; Shall we go to the Metropolitan Museum of Art?
+エンパイアステートビルを見ましょうか; Shall we see the Empire State Building?
+図書館で勉強しましょうか; Shall we study at the library?
+日本語で話しましょうか; Shall we speak in Japanese?
+手紙を書きましょうか; Shall I write a letter?
+誕生日カードを買いましょうか; Shall we buy a birthday card?
+プレゼントを包みましょうか; Shall I wrap the present?
+ケーキを切りましょうか; Shall I cut the cake?
+花を買いましょうか; Shall we buy flowers?
+ニューヨークの映画を見ましょうか; Shall we watch a movie about New York?
+タクシーを呼びましょうか; Shall I call a taxi?
+時間を計りましょうか; Shall I time it?
+電話をかけましょうか; Shall I make a phone call?
+窓を拭きましょうか; Shall I clean the window?
+猫に餌をあげましょうか; Shall I feed the cat?
+洗濯をしましょうか; Shall I do the laundry?
+掃除機をかけましょうか; Shall I vacuum?
+ベッドを直しましょうか; Shall I make the bed?
+スーパーに行きましょうか; Shall we go to the supermarket?
+果物を買いましょうか; Shall we buy some fruit?
+肉と魚を買いましょうか; Shall we buy meat and fish?
+テニスをしましょうか; Shall we play tennis?
+公園でサッカーをしましょうか; Shall we play soccer in the park?
+ビデオゲームをしましょうか; Shall we play a video game?
+シャワーを浴びましょうか; Shall I take a shower?
+お風呂に入りましょうか; Shall I take a bath?
+薬を飲みましょうか; Shall I take medicine?
+病院に行きましょうか; Shall we go to the hospital?
+銀行でお金を下ろしましょうか; Shall we withdraw money at the bank?
+ニューヨークの地図を買いましょうか; Shall we buy a map of New York?
+自由の女神を見に行きましょうか; Shall we go see the Statue of Liberty?
+タイムズスクエアへ行きましょうか; Shall we go to Times Square?

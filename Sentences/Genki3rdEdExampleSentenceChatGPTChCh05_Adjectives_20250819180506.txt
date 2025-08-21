@@ -1,0 +1,50 @@
+新しい時計ですね; That's a new watch, isn't it?
+高い時計ですね; That's an expensive watch, isn't it?
+古い映画館です; It's an old movie theater.
+有名な美術館です; It's a famous art museum.
+大きい公園です; It's a big park.
+小さいカフェです; It's a small cafe.
+面白い本です; It's an interesting book.
+綺麗な写真です; It's a beautiful photo.
+親切な人です; He/She is a kind person.
+忙しい学生です; He/She is a busy student.
+静かな図書館です; It's a quiet library.
+便利な駅です; It's a convenient station.
+楽しいパーティーです; It's a fun party.
+難しい試験です; It's a difficult exam.
+いい天気です; It's good weather.
+悪い天気です; It's bad weather.
+暑い日です; It's a hot day.
+寒い日です; It's a cold day.
+暖かい部屋です; It's a warm room.
+涼しい場所です; It's a cool place.
+青い空です; It's a blue sky.
+白い雲です; They are white clouds.
+赤いりんごです; It's a red apple.
+黒いかばんです; It's a black bag.
+茶色い机です; It's a brown desk.
+黄色いタクシーです; It's a yellow taxi.
+新しい友達です; He/She is a new friend.
+古い友達です; He/She is an old friend.
+高いビルです; It's a tall building.
+安いホテルです; It's a cheap hotel.
+広い部屋です; It's a spacious room.
+狭い部屋です; It's a narrow room.
+長い映画です; It's a long movie.
+短い手紙です; It's a short letter.
+重い荷物です; It's heavy luggage.
+軽い荷物です; It's light luggage.
+速い電車です; It's a fast train.
+遅いバスです; It's a slow bus.
+明るい店です; It's a bright store.
+暗い道です; It's a dark road.
+おいしいコーヒーです; It's delicious coffee.
+まずいコーヒーです; It's bad-tasting coffee.
+可愛い猫です; It's a cute cat.
+かっこいい犬です; It's a cool dog.
+すごい景色です; It's an amazing view.
+嫌いな食べ物です; It's a disliked food.
+好きな音楽です; It's liked music.
+きれいな街です; It's a beautiful city.
+有名な大学です; It's a famous university.
+忙しい駅です; It's a busy station.

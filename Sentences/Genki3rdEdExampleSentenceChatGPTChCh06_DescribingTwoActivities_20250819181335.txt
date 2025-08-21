@@ -1,0 +1,50 @@
+朝起きて、コーヒーを飲みます。; I wake up and drink coffee.
+学校へ行って、日本語を勉強します。; I go to school and study Japanese.
+図書館で本を借りて、家で読みます。; I borrow a book at the library and read it at home.
+セントラルパークを散歩して、写真を撮ります。; I walk in Central Park and take pictures.
+友達に会って、映画を見ます。; I meet my friend and watch a movie.
+スーパーで買い物をして、家で料理をします。; I shop at the supermarket and cook at home.
+シャワーを浴びて、歯を磨きます。; I take a shower and brush my teeth.
+音楽を聞いて、宿題をします。; I listen to music and do homework.
+ニューヨークへ行って、自由の女神を見ます。; I go to New York and see the Statue of Liberty.
+晩ご飯を食べて、テレビを見ます。; I eat dinner and watch TV.
+手紙を書いて、メールを送ります。; I write a letter and send an email.
+電車に乗って、マンハッタンへ行きます。; I take the train and go to Manhattan.
+昼ご飯を作って、学校へ持っていきます。; I make lunch and take it to school.
+コーヒーショップへ行って、勉強します。; I go to a coffee shop and study.
+電話をかけて、レストランを予約します。; I call and reserve a restaurant.
+テーブルを拭いて、皿を洗います。; I wipe the table and wash the dishes.
+新聞を読んで、ニュースを見ます。; I read the newspaper and watch the news.
+ジョギングをして、シャワーを浴びます。; I go jogging and take a shower.
+タイムズスクエアへ行って、買い物をします。; I go to Times Square and go shopping.
+本屋で雑誌を買って、カフェで読みます。; I buy a magazine at the bookstore and read it at a cafe.
+母に電話をして、話します。; I call my mother and talk.
+ピザを食べて、コーラを飲みます。; I eat pizza and drink cola.
+宿題をして、ゲームをします。; I do homework and play games.
+アパートを掃除して、洗濯をします。; I clean the apartment and do the laundry.
+銀行へ行って、お金をおろします。; I go to the bank and withdraw money.
+映画館へ行って、ポップコーンを食べます。; I go to the movie theater and eat popcorn.
+昼寝をして、勉強をします。; I take a nap and study.
+天気を見て、服を選びます。; I check the weather and choose clothes.
+友達の家へ行って、晩ご飯を食べます。; I go to my friend's house and eat dinner.
+メトロポリタン美術館へ行って、絵を見ます。; I go to the Metropolitan Museum of Art and look at paintings.
+レポートを書いて、先生に出します。; I write a report and give it to the teacher.
+デパートへ行って、靴を買います。; I go to the department store and buy shoes.
+ニュースを見て、家族と話します。; I watch the news and talk with my family.
+公園でサッカーをして、家に帰ります。; I play soccer in the park and go home.
+朝ご飯を食べて、新聞を読みます。; I eat breakfast and read the newspaper.
+コンサートへ行って、CDを買います。; I go to a concert and buy a CD.
+仕事が終わって、ビールを飲みます。; I finish work and drink beer。
+授業が終わって、図書館へ行きます。; Class finishes and I go to the library.
+カメラを持って、ブロードウェイの写真を撮ります。; I take my camera and take pictures of Broadway.
+駅まで歩いて、バスに乗ります。; I walk to the station and take the bus.
+英語を勉強して、日本語を勉強します。; I study English and study Japanese.
+コインランドリーへ行って、服を洗います。; I go to the laundromat and wash clothes。
+薬を買って、水で飲みます。; I buy medicine and take it with water.
+地下鉄に乗って、ミュージアムへ行きます。; I take the subway and go to the museum。
+窓を開けて、空気を入れます。; I open the window and let in the air。
+テニスをして、水を飲みます。; I play tennis and drink water。
+プレゼントを買って、友達にあげます。; I buy a present and give it to my friend。
+ベッドメイキングをして、部屋をきれいにします。; I make the bed and clean the room。
+ラジオを聞いて、朝ご飯を食べます。; I listen to the radio and eat breakfast。
+電気を消して、寝ます。; I turn off the light and sleep。

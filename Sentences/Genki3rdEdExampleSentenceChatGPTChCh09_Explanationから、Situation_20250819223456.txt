@@ -1,0 +1,50 @@
+天気がいいから、セントラルパークで散歩します; Because the weather is nice, I will take a walk in Central Park.
+新しい映画を見たいから、友達と映画館に行きます; Because I want to see a new movie, I will go to the movie theater with my friend.
+宿題が多いから、図書館で勉強します; Because I have a lot of homework, I will study at the library.
+ニューヨークが好きだから、よく写真を撮ります; Because I like New York, I often take pictures.
+お腹が空いたから、ピザを食べます; Because I am hungry, I will eat pizza.
+高いビルを見たいから、エンパイアステートビルに行きます; Because I want to see tall buildings, I will go to the Empire State Building.
+時間がないから、タクシーで行きます; Because I don't have time, I will go by taxi.
+音楽が好きだから、コンサートに行きます; Because I like music, I will go to a concert.
+友達に会いたいから、カフェで待ちます; Because I want to meet my friend, I will wait at a cafe.
+お金が少しあるから、安いレストランを探します; Because I have a little money, I will look for a cheap restaurant.
+とても寒いから、コートを着ます; Because it is very cold, I will wear a coat.
+土曜日ですから、モルガン図書館は休みです; Because it is Saturday, the Morgan Library is closed.
+日本語のクラスがあるから、学校に行きます; Because I have a Japanese class, I will go to school.
+トイレに行きたいから、あの店に入ります; Because I want to go to the bathroom, I will enter that store.
+手紙を書いたから、郵便局へ行きます; Because I wrote a letter, I will go to the post office.
+喉が渇いたから、水を買います; Because I am thirsty, I will buy water.
+バスが遅いから、地下鉄を使います; Because the bus is slow, I will use the subway.
+この本は面白いから、たくさん読みます; Because this book is interesting, I will read a lot.
+ニューヨークはにぎやかだから、一人で出かけません; Because New York is lively, I don't go out alone.
+あのレストランは高いから、行きません; Because that restaurant is expensive, I will not go.
+テストが難しいから、よく勉強します; Because the test is difficult, I will study hard.
+仕事が終わったから、家に帰ります; Because my work is finished, I will go home.
+セントラルパークが大きいから、全部歩きません; Because Central Park is big, I will not walk all of it.
+安いですから、このバッグを買います; Because it is cheap, I will buy this bag.
+友達が来ますから、部屋を掃除します; Because my friend is coming, I will clean my room.
+雨が降っていますから、傘を持って行きます; Because it is raining, I will take an umbrella.
+駅まで遠いから、自転車で行きます; Because it is far to the station, I will go by bicycle.
+英語がわかりませんから、日本語で話します; Because I don't understand English, I will speak in Japanese.
+このカメラは新しいから、よく使います; Because this camera is new, I use it often.
+ニューヨークの美術館は有名だから、観光客が多いです; Because New York's museums are famous, there are many tourists.
+昼ご飯を食べませんでしたから、今とてもお腹が空いています; Because I didn't eat lunch, I am very hungry now.
+映画が始まりますから、早く行きましょう; Because the movie is starting, let's go quickly.
+月曜日ですから、メトロポリタン美術館は閉まっています; Because it is Monday, the Metropolitan Museum of Art is closed.
+コーヒーが飲みたいから、スターバックスに行きます; Because I want to drink coffee, I will go to Starbucks.
+このパンはおいしいから、また買います; Because this bread is delicious, I will buy it again.
+明日は休みですから、今夜は遅く寝ます; Because tomorrow is a holiday, I will sleep late tonight.
+仕事がありますから、パーティーに行けません; Because I have work, I cannot go to the party.
+バッテリーがありませんから、携帯電話を使いません; Because there is no battery, I will not use my cell phone.
+電車が混んでいますから、次の電車を待ちます; Because the train is crowded, I will wait for the next train.
+この地図は便利ですから、いつも持ちます; Because this map is convenient, I always carry it.
+タイムズスクエアは明るいから、夜も安全です; Because Times Square is bright, it is safe even at night.
+音楽がうるさいから、窓を閉めます; Because the music is loud, I will close the window.
+公園でボールを遊びたいから、友達を呼びます; Because I want to play ball in the park, I will call my friend.
+安い切符がありますから、バスで行きます; Because there are cheap tickets, I will go by bus.
+宿題がありますから、遊びに行きません; Because I have homework, I will not go out to play.
+ニューヨークの冬は寒いから、暖かい服を着ます; Because New York's winter is cold, I wear warm clothes.
+あの店のアイスクリームはおいしいから、行列が長いです; Because that shop's ice cream is delicious, the line is long.
+用事がありますから、少し早く帰ります; Because I have an errand, I will go home a little early.
+図書館は静かですから、集中できます; Because the library is quiet, I can concentrate.
+次の電車まで時間がありますから、新聞を読みます; Because I have time until the next train, I will read a newspaper.

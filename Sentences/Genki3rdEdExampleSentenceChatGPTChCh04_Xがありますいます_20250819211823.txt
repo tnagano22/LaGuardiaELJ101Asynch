@@ -1,0 +1,51 @@
+コンビニがあります; There is a convenience store.
+図書館があります; There is a library.
+公園があります; There is a park.
+学校があります; There is a school.
+駅があります; There is a train station.
+猫がいます; There is a cat.
+犬がいます; There is a dog.
+学生がいます; There is a student.
+先生がいます; There is a teacher.
+友達がいます; There is a friend.
+レストランがあります; There is a restaurant.
+喫茶店があります; There is a coffee shop.
+銀行があります; There is a bank.
+郵便局があります; There is a post office.
+映画館があります; There is a movie theater.
+スーパーがあります; There is a supermarket.
+本屋があります; There is a bookstore.
+デパートがあります; There is a department store.
+駐車場があります; There is a parking lot.
+交番があります; There is a police box.
+電話があります; There is a telephone.
+時計があります; There is a clock.
+椅子があります; There is a chair.
+机があります; There is a desk.
+窓があります; There is a window.
+ドアがあります; There is a door.
+ペンがあります; There is a pen.
+ノートがあります; There is a notebook.
+かばんがあります; There is a bag.
+財布があります; There is a wallet.
+鍵があります; There is a key.
+車があります; There is a car.
+自転車があります; There is a bicycle.
+家族がいます; There is a family.
+男の人がいます; There is a man.
+女の人がいます; There is a woman.
+子供がいます; There is a child.
+お金があります; There is money.
+水があります; There is water.
+コーヒーがあります; There is coffee.
+お茶があります; There is tea.
+パンがあります; There is bread.
+りんごがあります; There is an apple.
+みかんがあります; There is an orange.
+テレビがあります; There is a TV.
+ラジオがあります; There is a radio.
+音楽があります; There is music.
+時間があります; There is time.
+ニューヨークに高いビルがあります; There are tall buildings in New York.
+ニューヨークにセントラルパークがあります; There is Central Park in New York.
+ニューヨークに自由の女神がいます; There is the Statue of Liberty in New York.

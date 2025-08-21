@@ -1,0 +1,50 @@
+薬を飲んだほうがいいです; You should take medicine.
+傘を持ったほうがいいです; You should bring an umbrella.
+毎日勉強したほうがいいです; You should study every day.
+早く寝たほうがいいです; You should go to bed early.
+野菜を食べたほうがいいです; You should eat vegetables.
+セントラルパークで散歩したほうがいいです; You should take a walk in Central Park.
+宿題をしたほうがいいです; You should do your homework.
+美術館へ行ったほうがいいです; You should go to the art museum.
+電車で行ったほうがいいです; You should go by train.
+ニューヨークのピザを食べたほうがいいです; You should try New York pizza.
+図書館で本を借りたほうがいいです; You should borrow books from the library.
+医者にいったほうがいいです; You should see a doctor.
+メトロポリタン美術館へ行ったほうがいいです; You should go to the Metropolitan Museum of Art.
+水をたくさん飲んだほうがいいです; You should drink a lot of water.
+高いビルのエレベーターを使ったほうがいいです; You should use the elevator in tall buildings.
+日本語を練習したほうがいいです; You should practice Japanese.
+友達にメールをしたほうがいいです; You should email your friend.
+安い店で買い物をしたほうがいいです; You should shop at a cheap store.
+天気がいい日にブルックリン橋を渡ったほうがいいです; You should cross the Brooklyn Bridge on a nice day.
+スポーツをしたほうがいいです; You should play sports.
+週末はタイムズスクエアへ行ったほうがいいです; You should go to Times Square on the weekend.
+新しい映画を見たほうがいいです; You should see the new movie.
+駅で切符を買ったほうがいいです; You should buy a ticket at the station.
+手を洗ったほうがいいです; You should wash your hands.
+静かなカフェで勉強したほうがいいです; You should study at a quiet cafe.
+自由の女神を見たほうがいいです; You should see the Statue of Liberty.
+毎朝朝ごはんを食べたほうがいいです; You should eat breakfast every morning.
+バスで帰ったほうがいいです; You should go home by bus.
+ニューヨークのコンサートに行ったほうがいいです; You should go to a concert in New York.
+宿題を早く終わらせたほうがいいです; You should finish your homework early.
+週末にプロスペクトパークでサッカーをしたほうがいいです; You should play soccer in Prospect Park on the weekend.
+もっと果物を食べたほうがいいです; You should eat more fruit.
+地下鉄の地図を見たほうがいいです; You should look at the subway map.
+レポートを書いたほうがいいです; You should write the report.
+冬はコートを着たほうがいいです; You should wear a coat in winter.
+安いレストランで昼ごはんを食べたほうがいいです; You should eat lunch at an inexpensive restaurant.
+ニューヨークのパレードを見たほうがいいです; You should see a parade in New York.
+電話をかけたほうがいいです; You should make a phone call.
+土曜日にミュージアム・マイレージを利用したほうがいいです; You should use Museum Mile on Saturday.
+もっと寝たほうがいいです; You should sleep more.
+ジョギングをしたほうがいいです; You should go jogging.
+学校に遅刻しないほうがいいです; You shouldn't be late for school.
+授業の前に予習をしたほうがいいです; You should review before class.
+ニューヨークのストリートフードを試したほうがいいです; You should try New York street food.
+エンパイアステートビルに上ったほうがいいです; You should go up the Empire State Building.
+本を読んだほうがいいです; You should read books.
+音楽を聞いたほうがいいです; You should listen to music.
+夏はセントラルパークでコンサートに行ったほうがいいです; You should go to a concert in Central Park in the summer.
+テレビを見すぎないほうがいいです; You shouldn't watch too much TV.
+学校のパーティーに参加したほうがいいです; You should participate in the school party.

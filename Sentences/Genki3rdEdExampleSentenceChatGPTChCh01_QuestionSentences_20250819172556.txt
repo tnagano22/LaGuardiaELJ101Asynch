@@ -1,0 +1,50 @@
+すみません、あなたは がくせいですか。; Excuse me, are you a student?
+マイク・ミラーさんですか。; Are you Mike Miller?
+これは ほんですか。; Is this a book?
+それは なんですか。; What is that?
+あれは でんわですか。; Is that over there a telephone?
+これは じしょですか。; Is this a dictionary?
+それは ノートですか、てちょうですか。; Is that a notebook or a planner?
+カードですか。; Is it a card?
+けしゴムですか。; Is it an eraser?
+これは あなたの かさですか。; Is this your umbrella?
+それは だれの かばんですか。; Whose bag is that?
+あれは せんせいの くるまですか。; Is that over there the teacher's car?
+その とけいは メアリーさんのですか。; Is that watch Mary's?
+この ざっしは たなかさんのですか。; Is this magazine Mr. Tanaka's?
+あの ぼうしは だれのですか。; Whose hat is that?
+ロバートさんは アメリカじんですか。; Is Robert American?
+メアリーさんは がくせいですか。; Is Mary a student?
+たなかさんは せんせいですか。; Is Mr. Tanaka a teacher?
+あなたは エンジニアですか。; Are you an engineer?
+イーさんは かいしゃいんですか。; Is Ms. Lee a company employee?
+サントスさんは ブラジルじんですか。; Is Mr. Santos Brazilian?
+これは いくらですか。; How much is this?
+その えんぴつは いくらですか。; How much is that pencil?
+あの じてんしゃは いくらですか。; How much is that bicycle over there?
+それは 百えんですか。; Is that 100 yen?
+千五百えんですか。; Is it 1500 yen?
+あれは メアリーさんの いえですか。; Is that over there Mary's house?
+これは デパートですか。; Is this a department store?
+あの たてものは びょういんですか。; Is that building a hospital?
+ここは がっこうですか。; Is this place a school?
+そこは レストランですか。; Is that place a restaurant?
+あそこは トイレですか。; Is that place over there the toilet?
+おてあらいは どこですか。; Where is the restroom?
+エレベーターは どこですか。; Where is the elevator?
+でんわは どこですか。; Where is the telephone?
+ちかてつは あそこですか。; Is the subway over there?
+あなたの うちは ここですか。; Is your house here?
+ぎんこうは そこですか。; Is the bank there?
+バスていは あそこですか。; Is the bus stop over there?
+けいたいは これですか。; Is the cell phone this one?
+あなたの かぎは それですか。; Is that your key?
+せんせいの くるまは あれですか。; Is that over there the teacher's car?
+たなかさんは どなたですか。; Who is Mr. Tanaka?
+あの かたは どなたですか。; Who is that person (respectful)?
+あの ひとは だれですか。; Who is that person?
+これは だれの てがみですか。; Whose letter is this?
+それは なんの ざっしですか。; What kind of magazine is that?
+あれは なんの たてものですか。; What kind of building is that over there?
+おなまえは なんですか。; What is your name?
+おしごとは なんですか。; What is your job?

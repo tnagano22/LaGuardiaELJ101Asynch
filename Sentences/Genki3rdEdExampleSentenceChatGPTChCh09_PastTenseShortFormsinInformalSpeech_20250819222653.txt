@@ -1,0 +1,49 @@
+昨日ニューヨークに行った？; Did you go to New York yesterday?
+セントラルパークで友達と会った; I met my friend in Central Park.
+駅で新聞を買った; I bought a newspaper at the station.
+週末に美術館を見学した; I visited the museum over the weekend.
+高いビルを見上げた; I looked up at the tall building.
+コーヒーを一杯飲んだ; I drank a cup of coffee.
+バスでブロードウェイを通った; I passed through Broadway on the bus.
+新しいレストランで晩ご飯を食べた; I ate dinner at the new restaurant.
+宿題を全部した; I did all my homework.
+図書館で本を借りた; I borrowed a book from the library.
+天気が良かった; The weather was good.
+授業に遅れた; I was late for class.
+マンハッタンでたくさん写真を撮った; I took many pictures in Manhattan.
+手紙を書いた; I wrote a letter.
+電車で帰った; I went home by train.
+友達に電話した; I called my friend.
+映画館で日本の映画を見た; I watched a Japanese movie at the cinema.
+地下鉄を間違えた; I took the wrong subway.
+あのカフェでケーキを食べた; I ate cake at that cafe.
+テストが難しかった; The test was difficult.
+プレゼントをもらった; I received a gift.
+音楽を聞いた; I listened to music.
+公園を散歩した; I walked in the park.
+ニューヨークの夜景がきれいだった; The night view of New York was beautiful.
+コンビニでお弁当を買った; I bought a bento at the convenience store.
+土曜日に買い物をした; I went shopping on Saturday.
+彼女に会った; I met my girlfriend.
+飛行機のチケットを予約した; I reserved an airplane ticket.
+タクシーに乗った; I took a taxi.
+駅まで歩いた; I walked to the station.
+英語を勉強した; I studied English.
+コーヒーショップで働いた; I worked at a coffee shop.
+時間がなかった; I didn't have time.
+ホットドッグを食べた; I ate a hot dog.
+セントラルパークでボートに乗った; I rode a boat in Central Park.
+映画のチケットを買った; I bought a movie ticket.
+友達と話した; I talked with my friend.
+大学のパーティーに行った; I went to a university party.
+ニューヨークはにぎやかだった; New York was lively.
+窓を開けた; I opened the window.
+本を読んだ; I read a book.
+音楽が大きかった; The music was loud.
+宿題を忘れた; I forgot my homework.
+テレビを見た; I watched TV.
+レポートを書いた; I wrote a report.
+カメラを持って行った; I brought my camera.
+バッグをなくした; I lost my bag.
+チーズケーキを食べた; I ate cheesecake.
+電車が混んでいた; The train was crowded.

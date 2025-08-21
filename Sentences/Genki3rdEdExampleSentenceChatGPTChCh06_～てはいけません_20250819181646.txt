@@ -1,0 +1,50 @@
+ここで写真を撮ってはいけません; You must not take photos here
+あの建物に入ってはいけません; You must not enter that building
+ゴミを捨ててはいけません; You must not throw away trash
+ここで泳いではいけません; You must not swim here
+サインをしてはいけません; You must not sign
+花を取ってはいけません; You must not pick flowers
+遅れてはいけません; You must not be late
+走ってはいけません; You must not run
+食べ物を買ってはいけません; You must not buy food
+タクシーで行ってはいけません; You must not go by taxi
+大きな声で話してはいけません; You must not speak loudly
+ペンで書いてはいけません; You must not write with a pen
+窓を開けてはいけません; You must not open the window
+ここに座ってはいけません; You must not sit here
+あのレストランで食べてはいけません; You must not eat at that restaurant
+メトロで音楽を聴いてはいけません; You must not listen to music on the subway
+セントラルパークで自転車に乗ってはいけません; You must not ride a bicycle in Central Park
+宿題を忘れてはいけません; You must not forget your homework
+図書館で電話をかけてはいけません; You must not make phone calls in the library
+答えを見てはいけません; You must not look at the answers
+テストに鉛筆で書いてはいけません; You must not write on the test with a pencil
+授業中に寝てはいけません; You must not sleep during class
+友達のノートを借りてはいけません; You must not borrow your friend's notebook
+ここでゲームをしてはいけません; You must not play games here
+エンパイアステートビルで騒いではいけません; You must not make noise in the Empire State Building
+博物館で触ってはいけません; You must not touch in the museum
+レポートをコピーしてはいけません; You must not copy the report
+授業を休んではいけません; You must not miss class
+電車でドアを開けてはいけません; You must not open the doors on the train
+タイムズスクエアで止まってはいけません; You must not stop in Times Square
+カメラを使わないではいけません; You must not not use a camera
+パスポートを無くしてはいけません; You must not lose your passport
+ホテルで料理を作ってはいけません; You must not cook in the hotel
+高い所に登ってはいけません; You must not climb high places
+授業に飲み物を持ってきてはいけません; You must not bring drinks to class
+動物に餌をあげてはいけません; You must not feed the animals
+試験の時間を間違えてはいけません; You must not mistake the exam time
+ブリッジを渡ってはいけません; You must not cross the bridge
+レストランで靴を脱いではいけません; You must not take off your shoes in the restaurant
+図書館の本を破ってはいけません; You must not tear library books
+学校にペットを連れてきてはいけません; You must not bring pets to school
+地下鉄で歌を歌ってはいけません; You must not sing songs on the subway
+カフェで長時間座ってはいけません; You must not sit for a long time in the cafe
+美術館でスケッチをしてはいけません; You must not sketch in the art museum
+授業に遅れてはいけません; You must not be late for class
+公園でボールを投げてはいけません; You must not throw balls in the park
+ここに車を止めてはいけません; You must not park your car here
+レポートを提出しなくてはいけません; You must not fail to submit the report
+自由の女神像に登ってはいけません; You must not climb the Statue of Liberty
+教室で食べてはいけません; You must not eat in the classroom
